@@ -1,0 +1,935 @@
+"","id","Wikipedia_Link","Name","Country","Born","Dead","query","lat","lon","lat_min","lat_max","lon_min","lon_max"
+"1",1,"https://en.wikipedia.org/wiki/Aryabhata","Aryabhata ","India",476,550,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"2",2,"https://en.wikipedia.org/wiki/Democritus","Democritus ","Greece",-460,-360,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"3",3,"https://en.wikipedia.org/wiki/Heraclides_Ponticus","Heraclides Ponticus ","Greece",-387,-312,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"4",4,"https://en.wikipedia.org/wiki/Aristotle","Aristotle ","Greece",-384,-322,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"5",5,"https://en.wikipedia.org/wiki/Aristarchus_of_Samos","Aristarchus of Samos ","Greece",-310,-230,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"6",6,"https://en.wikipedia.org/wiki/Lucretius","Lucretius ","Italy",-287,-55,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"7",7,"https://en.wikipedia.org/wiki/Archimedes","Archimedes ","Italy",-98,-212,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"8",8,"https://en.wikipedia.org/wiki/Alhazen","Alhazen ","Iraq",965,1040,"Iraq",33.0955793,44.1749775,29.0585661,37.3806687,38.7936719,48.8412702
+"9",9,"https://en.wikipedia.org/wiki/Ibn_al-Haytham","Ibn al-Haytham ","Iraq",965,1039,"Iraq",33.0955793,44.1749775,29.0585661,37.3806687,38.7936719,48.8412702
+"10",10,"https://en.wikipedia.org/wiki/Ab%C5%AB_Rayh%C4%81n_al-B%C4%ABr%C5%ABn%C4%AB","Abu Rayhan al-Biruni ","Uzbekistan",973,1048,"Uzbekistan",41.32373,63.9528098,37.1821164,45.5905053,55.9988919,73.1397362
+"11",11,"https://en.wikipedia.org/wiki/Avicenna","Avicenna ","Uzbekistan",980,1037,"Uzbekistan",41.32373,63.9528098,37.1821164,45.5905053,55.9988919,73.1397362
+"12",12,"https://en.wikipedia.org/wiki/Shen_Kuo","Shen Kuo ","China",1031,1095,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"13",13,"https://en.wikipedia.org/wiki/Nicole_Oresme","Nicole Oresme ","France",1325,1382,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"14",14,"https://en.wikipedia.org/wiki/William_Gilbert_(astronomer)","William Gilbert ","England",1544,1603,"England",52.7954791,-0.540240286617432,49.674,55.917,-6.7047494,2.0919117
+"15",15,"https://en.wikipedia.org/wiki/Tycho_Brahe","Tycho Brahe ","Denmark",1546,1601,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"16",16,"https://en.wikipedia.org/wiki/Simon_Stevin","Simon Stevin ","Belgium",1548,1620,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"17",17,"https://en.wikipedia.org/wiki/Galileo_Galilei","Galileo Galilei ","Italy",1564,1642,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"18",18,"https://en.wikipedia.org/wiki/Johannes_Kepler","Johannes Kepler ","Germany",1571,1630,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"19",19,"https://en.wikipedia.org/wiki/Willebrord_Snell","Willebrord Snell ","Netherlands",1580,1626,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"20",20,"https://en.wikipedia.org/wiki/Isaac_Beeckman","Isaac Beeckman ","Netherlands",1588,1637,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"21",21,"https://en.wikipedia.org/wiki/Evangelista_Torricelli","Evangelista Torricelli ","Italy",1608,1647,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"22",22,"https://en.wikipedia.org/wiki/Blaise_Pascal","Blaise Pascal ","France",1623,1662,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"23",23,"https://en.wikipedia.org/wiki/Robert_Boyle","Robert Boyle ","Ireland",1627,1691,"Ireland",52.865196,-7.9794599,51.222,55.636,-11.0133788,-5.6582363
+"24",24,"https://en.wikipedia.org/wiki/Christiaan_Huygens","Christiaan Huygens ","Netherlands",1629,1695,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"25",25,"https://en.wikipedia.org/wiki/Robert_Hooke","Robert Hooke ","England",1635,1703,"England",52.7954791,-0.540240286617432,49.674,55.917,-6.7047494,2.0919117
+"26",26,"https://en.wikipedia.org/wiki/Sir_Isaac_Newton","Sir Isaac Newton ","England",1642,1727,"England",52.7954791,-0.540240286617432,49.674,55.917,-6.7047494,2.0919117
+"27",27,"https://en.wikipedia.org/wiki/Burchard_de_Volder","Burchard de Volder ","Netherlands",1643,1709,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"28",28,"https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz","Gottfried Wilhelm Leibniz ","Germany",1646,1716,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"29",29,"https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur","René Antoine Ferchault de Réaumur ","France",1683,1757,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"30",30,NA,"Daniel Gabriel Fahrenheit ","Germany",1686,1736,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"31",31,"https://en.wikipedia.org/wiki/Willem_%27s_Gravesande","Willem 's Gravesande ","Netherlands",1688,1742,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"32",32,"https://en.wikipedia.org/wiki/Pieter_van_Musschenbroek","Pieter van Musschenbroek ","Netherlands",1692,1762,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"33",33,"https://en.wikipedia.org/wiki/Daniel_Bernoulli","Daniel Bernoulli ","Switzerland",1700,1782,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"34",34,"https://en.wikipedia.org/wiki/Benjamin_Franklin","Benjamin Franklin ","United States",1706,1790,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"35",35,"https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet","Émilie du Châtelet ","France",1706,1749,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"36",36,"https://en.wikipedia.org/wiki/Leonhard_Euler","Leonhard Euler ","Switzerland",1707,1783,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"37",37,"https://en.wikipedia.org/wiki/Rudjer_Josip_Boscovich","Rudjer Josip Boscovich ","Croatia",1711,1787,"Croatia",45.5643442,17.0118954,42.1765993,46.555029,13.2104814,19.4470842
+"38",38,"https://en.wikipedia.org/wiki/Laura_Maria_Caterina_Bassi","Laura Maria Caterina Bassi ","Italy",1711,1778,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"39",39,"https://en.wikipedia.org/wiki/Andreas_Jaszlinszky","Andreas Jaszlinszky ","Hungary",1715,1783,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"40",40,"https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert","Jean le Rond d'Alembert ","France",1717,1783,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"41",41,"https://en.wikipedia.org/wiki/Georges-Louis_Le_Sage","Georges-Louis le Sage ","Switzerland",1724,1803,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"42",42,"https://en.wikipedia.org/wiki/Franz_Aepinus","Franz Aepinus ","Germany",1724,1802,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"43",43,"https://en.wikipedia.org/wiki/Henry_Cavendish","Henry Cavendish ","United Kingdom",1731,1810,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"44",44,"https://en.wikipedia.org/wiki/Johann_Baptiste_Horvath","Johann Baptiste Horvath ","Slovakia",1732,1799,"Slovakia",48.7411522,19.4528646,47.7314286,49.6138162,16.8331891,22.56571
+"45",45,"https://en.wikipedia.org/wiki/James_Watt","James Watt ","United Kingdom",1736,1819,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"46",46,"https://en.wikipedia.org/wiki/Joseph_Louis_Lagrange","Joseph-Louis Lagrange ","France",1736,1813,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"47",47,"https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb","Charles-Augustin de Coulomb ","France",1736,1806,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"48",48,"https://en.wikipedia.org/wiki/Luigi_Galvani","Luigi Galvani ","Italy",1737,1798,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"49",49,"https://en.wikipedia.org/wiki/Alessandro_Volta","Alessandro Volta ","Italy",1745,1827,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"50",50,"https://en.wikipedia.org/wiki/Jean_Henri_van_Swinden","Jean Henri van Swinden ","Netherlands",1746,1823,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"51",51,"https://en.wikipedia.org/wiki/Giovanni_Battista_Venturi","Giovanni Battista Venturi ","Italy",1746,1822,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"52",52,"https://en.wikipedia.org/wiki/Pierre-Simon_Laplace","Pierre-Simon Laplace ","France",1749,1827,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"53",53,"https://en.wikipedia.org/wiki/Abraham_Bennet","Abraham Bennet ","England",1749,1799,"England",52.7954791,-0.540240286617432,49.674,55.917,-6.7047494,2.0919117
+"54",54,"https://en.wikipedia.org/wiki/Ernst_Chladni","Ernst Chladni ","Germany",1756,1827,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"55",55,"https://en.wikipedia.org/wiki/%C3%89tienne-Gaspard_Robert","Étienne-Gaspard Robert ","Belgium",1763,1837,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"56",56,"https://en.wikipedia.org/wiki/Johann_Georg_Tralles","Johann Georg Tralles ","Germany",1763,1822,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"57",57,"https://en.wikipedia.org/wiki/John_Dalton","John Dalton ","United Kingdom",1766,1844,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"58",58,"https://en.wikipedia.org/wiki/John_Leslie_(physicist)","John Leslie ","United Kingdom",1766,1832,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"59",59,"https://en.wikipedia.org/wiki/Joseph_Fourier","Joseph Fourier ","France",1768,1830,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"60",60,"https://en.wikipedia.org/wiki/Thomas_Johann_Seebeck","Thomas Johann Seebeck ","Estonia",1770,1831,"Estonia",58.7523778,25.3319078,51.2523778,66.2523778,17.8319078,32.8319078
+"61",61,"https://en.wikipedia.org/wiki/Thomas_Young_(scientist)","Thomas Young ","United Kingdom",1773,1829,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"62",62,"https://en.wikipedia.org/wiki/Jean-Baptiste_Biot","Jean-Baptiste Biot ","France",1774,1862,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"63",63,"https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re","André-Marie Ampère ","France",1775,1836,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"64",64,"https://en.wikipedia.org/wiki/%C3%89tienne-Louis_Malus","Étienne-Louis Malus ","France",1775,1812,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"65",65,"https://en.wikipedia.org/wiki/Amedeo_Avogadro","Amedeo Avogadro ","Italy",1776,1856,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"66",66,"https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss","Carl Friedrich Gauss ","Germany",1777,1855,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"67",67,"https://en.wikipedia.org/wiki/Hans_Christian_%C3%98rsted","Hans Christian Ørsted ","Denmark",1777,1851,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"68",68,"https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac","Joseph Louis Gay-Lussac ","France",1778,1850,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"69",69,"https://en.wikipedia.org/wiki/David_Brewster","David Brewster ","United Kingdom",1781,1868,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"70",70,"https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson","Siméon Denis Poisson","France",1781,1840,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"71",71,"https://en.wikipedia.org/wiki/Leopoldo_Nobili","Leopoldo Nobili ","Italy",1784,1835,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"72",72,"https://en.wikipedia.org/wiki/William_Prout","William Prout ","United Kingdom",1785,1850,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"73",73,"https://en.wikipedia.org/wiki/Jean_Charles_Athanase_Peltier","Jean Peltier ","France",1785,1845,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"74",74,"https://en.wikipedia.org/wiki/Pierre_Louis_Dulong","Pierre Louis Dulong ","France",1785,1838,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"75",75,"https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jean_Dominique_Arago","François Jean Dominique Arago ","France",1786,1853,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"76",76,"https://en.wikipedia.org/wiki/Johann_Gottlieb_N%C3%B6rremberg","Johann Gottlieb Nörremberg ","Germany",1787,1862,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"77",77,"https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer","Joseph von Fraunhofer ","Germany",1787,1826,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"78",78,"https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel","Augustin-Jean Fresnel ","France",1788,1827,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"79",79,"https://en.wikipedia.org/wiki/Louis_Rendu","Louis Rendu ","France",1789,1859,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"80",80,"https://en.wikipedia.org/wiki/Georg_Ohm","Georg Ohm ","Germany",1789,1854,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"81",81,"https://en.wikipedia.org/wiki/John_Herapath","John Herapath ","United Kingdom",1790,1868,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"82",82,"https://en.wikipedia.org/wiki/Michael_Faraday","Michael Faraday ","United Kingdom",1791,1867,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"83",83,"https://en.wikipedia.org/wiki/F%C3%A9lix_Savart","Félix Savart ","France",1791,1841,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"84",84,"https://en.wikipedia.org/wiki/Gaspard-Gustave_Coriolis","Gaspard-Gustave Coriolis ","France",1792,1843,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"85",85,"https://en.wikipedia.org/wiki/Peter_Andreas_Hansen","Peter Andreas Hansen ","Denmark",1795,1874,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"86",86,"https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot","Nicolas Léonard Sadi Carnot ","France",1796,1832,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"87",87,"https://en.wikipedia.org/wiki/Joseph_Henry","Joseph Henry ","United States",1797,1878,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"88",88,"https://en.wikipedia.org/wiki/Macedonio_Melloni","Macedonio Melloni ","Italy",1798,1854,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"89",89,"https://en.wikipedia.org/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron","Benoît Clapeyron ","France",1799,1864,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"90",90,"https://en.wikipedia.org/wiki/Joseph_Plateau","Joseph Plateau ","Belgium",1801,1883,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"91",91,"https://en.wikipedia.org/wiki/Carl_August_Steinheil","Carl August Steinheil ","Germany",1801,1870,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"92",92,"https://en.wikipedia.org/wiki/Mikhail_Vasilievich_Ostrogradsky","Mikhail Vasilievich Ostrogradsky ","Russia",1801,1862,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"93",93,"https://en.wikipedia.org/wiki/Christian_Doppler","Christian Doppler ","Austria",1803,1853,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"94",94,"https://en.wikipedia.org/wiki/Wilhelm_Eduard_Weber","Wilhelm Weber ","Germany",1804,1891,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"95",95,"https://en.wikipedia.org/wiki/William_Rowan_Hamilton","William Rowan Hamilton ","Ireland",1805,1865,"Ireland",52.865196,-7.9794599,51.222,55.636,-11.0133788,-5.6582363
+"96",96,"https://en.wikipedia.org/wiki/James_David_Forbes","James David Forbes ","United Kingdom",1809,1868,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"97",97,"https://en.wikipedia.org/wiki/John_James_Waterston","John James Waterston ","United Kingdom",1811,1883,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"98",98,"https://en.wikipedia.org/wiki/Karl_L._Littrow","Karl L. Littrow ","Austria",1811,1877,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"99",99,"https://en.wikipedia.org/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m","Anders Jonas Ångström ","Sweden",1814,1874,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"100",100,"https://en.wikipedia.org/wiki/Gustave-Adolphe_Hirn","Gustave-Adolphe Hirn ","France",1815,1890,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"101",101,"https://en.wikipedia.org/wiki/C.H.D._Buys_Ballot","Christophorus Buys Ballot ","Netherlands",1817,1890,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"102",102,"https://en.wikipedia.org/wiki/James_Prescott_Joule","James Prescott Joule ","United Kingdom",1818,1889,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"103",103,"https://en.wikipedia.org/wiki/George_Gabriel_Stokes","George Gabriel Stokes ","Ireland",1819,1903,"Ireland",52.865196,-7.9794599,51.222,55.636,-11.0133788,-5.6582363
+"104",104,"https://en.wikipedia.org/wiki/Hippolyte_Fizeau","Hippolyte Fizeau ","France",1819,1896,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"105",105,"https://en.wikipedia.org/wiki/L%C3%A9on_Foucault","Léon Foucault ","France",1819,1868,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"106",106,"https://en.wikipedia.org/wiki/John_Tyndall","John Tyndall ","United Kingdom",1820,1893,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"107",107,"https://en.wikipedia.org/wiki/Johann_Josef_Loschmidt","Johann Josef Loschmidt ","Austria",1821,1895,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"108",108,"https://en.wikipedia.org/wiki/Hermann_von_Helmholtz","Hermann von Helmholtz ","Germany",1821,1894,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"109",109,"https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Mouchez","Amédée Mouchez ","Spain",1821,1892,"Spain",39.3262345,-4.8380649,27.4335426,43.9933088,-18.3936845,4.5918885
+"110",110,"https://en.wikipedia.org/wiki/Rudolf_Clausius","Rudolf Clausius ","Germany",1822,1888,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"111",111,"https://en.wikipedia.org/wiki/August_Kr%C3%B6nig","August Krönig ","Germany",1822,1879,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"112",112,"https://en.wikipedia.org/wiki/John_Kerr_(physicist)","John Kerr ","Scotland",1824,1907,"Scotland",56.7861112,-4.1140518,54.4339831,61.061,-14.015517,-0.3209221
+"113",113,"https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin","William Thomson (Lord Kelvin) ","United Kingdom",1824,1907,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"114",114,"https://en.wikipedia.org/wiki/Gustav_Kirchhoff","Gustav Kirchhoff ","Germany",1824,1887,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"115",115,"https://en.wikipedia.org/wiki/%C3%89mile_Verdet","Émile Verdet ","France",1824,1866,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"116",116,"https://en.wikipedia.org/wiki/Johann_Jakob_Balmer","Johann Jakob Balmer ","Switzerland",1825,1898,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"117",117,"https://en.wikipedia.org/wiki/Joseph_Swan","Joseph Swan ","United Kingdom",1828,1914,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"118",118,"https://en.wikipedia.org/wiki/Ludvig_Lorenz","Ludvig Lorenz ","Denmark",1829,1891,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"119",119,"https://en.wikipedia.org/wiki/Johannes_Bosscha","Johannes Bosscha ","Netherlands",1831,1911,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"120",120,"https://en.wikipedia.org/wiki/James_Clerk_Maxwell","James Clerk Maxwell ","United Kingdom",1831,1879,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"121",121,"https://en.wikipedia.org/wiki/Sir_William_Crookes","Sir William Crookes ","United Kingdom",1832,1919,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"122",122,"https://en.wikipedia.org/wiki/Maurice_Loewy","Maurice Loewy ","Austria",1833,1907,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"123",123,"https://en.wikipedia.org/wiki/Simon_Newcomb","Simon Newcomb ","United States",1835,1909,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"124",124,"https://en.wikipedia.org/wiki/Joseph_Stefan","Joseph Stefan ","Austria",1835,1893,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"125",125,"https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals","Johannes Diderik van der Waals ","Netherlands",1837,1923,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"126",126,"https://en.wikipedia.org/wiki/Amos_Dolbear","Amos Dolbear","United States",1837,1910,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"127",127,"https://en.wikipedia.org/wiki/Ernst_Mach","Ernst Mach ","Austria",1838,1916,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"128",128,"https://en.wikipedia.org/wiki/George_William_Hill","George William Hill ","United States",1838,1914,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"129",129,"https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs","Josiah Willard Gibbs ","United States",1839,1903,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"130",130,"https://en.wikipedia.org/wiki/Aleksandr_Stoletov","Aleksandr Stoletov ","Russia",1839,1896,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"131",131,"https://en.wikipedia.org/wiki/Carlo_Marangoni","Carlo Marangoni ","Italy",1840,1925,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"132",132,"https://en.wikipedia.org/wiki/Ernst_Karl_Abbe","Ernst Karl Abbe ","Germany",1840,1905,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"133",133,"https://en.wikipedia.org/wiki/Thomas_Corwin_Mendenhall","Thomas Corwin Mendenhall ","United States",1841,1924,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"134",134,"https://en.wikipedia.org/wiki/Marie_Alfred_Cornu","Marie Alfred Cornu ","France",1841,1902,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"135",135,"https://en.wikipedia.org/wiki/James_Dewar","James Dewar ","United Kingdom",1842,1923,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"136",136,"https://en.wikipedia.org/wiki/Lord_Rayleigh","Lord Rayleigh ","United Kingdom",1842,1919,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"137",137,"https://en.wikipedia.org/wiki/Osborne_Reynolds","Osborne Reynolds ","United Kingdom",1842,1912,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"138",138,"https://en.wikipedia.org/wiki/Ludwig_Boltzmann","Ludwig Boltzmann ","Austria",1844,1906,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"139",139,"https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen","Wilhelm Conrad Röntgen ","Germany",1845,1923,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"140",140,"https://en.wikipedia.org/wiki/Gabriel_Jonas_Lippmann","Gabriel Jonas Lippmann ","France",1845,1921,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"141",141,"https://en.wikipedia.org/wiki/Ivan_Pulyuy","Ivan Pulyuy ","Ukraine",1845,1918,"Ukraine",49.4871968,31.2718321,44.184598,52.3791473,22.137059,40.2275801
+"142",142,"https://en.wikipedia.org/wiki/Nikolay_Umov","Nikolay Umov ","Russia",1846,1915,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"143",143,"https://en.wikipedia.org/wiki/Ewald_Wollny","Ewald Wollny ","Germany",1846,1901,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"144",144,"https://en.wikipedia.org/wiki/Alexander_Graham_Bell","Alexander Graham Bell ","Scotland",1847,1922,"Scotland",56.7861112,-4.1140518,54.4339831,61.061,-14.015517,-0.3209221
+"145",145,"https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s","Loránd Eötvös ","Austria",1848,1919,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"146",146,"https://en.wikipedia.org/wiki/Friedrich_Ernst_Dorn","Friedrich Ernst Dorn ","Germany",1848,1916,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"147",147,"https://en.wikipedia.org/wiki/Franz_S._Exner","Franz S. Exner ","Austria",1849,1926,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"148",148,"https://en.wikipedia.org/wiki/John_Hopkinson","John Hopkinson ","United Kingdom",1849,1898,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"149",149,"https://en.wikipedia.org/wiki/Oliver_Heaviside","Oliver Heaviside ","United Kingdom",1850,1925,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"150",150,"https://en.wikipedia.org/wiki/Woldemar_Voigt","Woldemar Voigt ","Germany",1850,1919,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"151",151,"https://en.wikipedia.org/wiki/Karl_Ferdinand_Braun","Karl Ferdinand Braun ","Germany",1850,1918,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"152",152,"https://en.wikipedia.org/wiki/Oliver_Lodge","Oliver Lodge ","United Kingdom",1851,1940,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"153",153,"https://en.wikipedia.org/wiki/George_Francis_FitzGerald","George Francis FitzGerald ","Ireland",1851,1901,"Ireland",52.865196,-7.9794599,51.222,55.636,-11.0133788,-5.6582363
+"154",154,"https://en.wikipedia.org/wiki/Albert_Abraham_Michelson","Albert Abraham Michelson ","United States",1852,1931,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"155",155,"https://en.wikipedia.org/wiki/Edward_Bouchet","Edward Bouchet ","United States",1852,1918,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"156",156,"https://en.wikipedia.org/wiki/John_Henry_Poynting","John Henry Poynting ","United Kingdom",1852,1914,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"157",157,"https://en.wikipedia.org/wiki/Henri_Becquerel","Henri Becquerel ","France",1852,1908,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"158",158,"https://en.wikipedia.org/wiki/Heinrich_Kayser","Heinrich Kayser ","Germany",1853,1940,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"159",159,"https://en.wikipedia.org/wiki/Hendrik_Lorentz","Hendrik Lorentz ","Netherlands",1853,1928,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"160",160,"https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes","Heike Kamerlingh Onnes ","Netherlands",1853,1926,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"161",161,"https://en.wikipedia.org/wiki/Ludwig_Zehnder","Ludwig Zehnder ","Switzerland",1854,1949,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"162",162,"https://en.wikipedia.org/wiki/Marcel_Brillouin","Marcel Brillouin ","France",1854,1948,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"163",163,"https://en.wikipedia.org/wiki/Johannes_Rydberg","Janne Rydberg ","Sweden",1854,1919,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"164",164,"https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9","Henri Poincaré, mathematician","France",1854,1912,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"165",165,"https://en.wikipedia.org/wiki/Edwin_Hall","Edwin Hall ","United States",1855,1938,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"166",166,"https://en.wikipedia.org/wiki/James_Alfred_Ewing","James Alfred Ewing ","United Kingdom",1855,1935,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"167",167,"https://en.wikipedia.org/wiki/Leo_Graetz","Leo Graetz ","Germany",1856,1941,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"168",168,"https://en.wikipedia.org/wiki/J._J._Thomson","J. J. Thomson ","United Kingdom",1856,1940,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"169",169,"https://en.wikipedia.org/wiki/Joseph_Larmor","Joseph Larmor ","United Kingdom",1857,1942,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"170",170,"https://en.wikipedia.org/wiki/Aleksandr_Mikhailovich_Lyapunov","Aleksandr Mikhailovich Lyapunov ","Russia",1857,1918,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"171",171,"https://en.wikipedia.org/wiki/Heinrich_Rudolf_Hertz","Heinrich Rudolf Hertz ","Germany",1857,1894,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"172",172,"https://en.wikipedia.org/wiki/Max_Planck","Max Planck ","Germany",1858,1947,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"173",173,"https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose","Jagadish Chandra Bose ","India",1858,1937,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"174",174,"https://en.wikipedia.org/wiki/Mihajlo_Idvorski_Pupin","Mihajlo Idvorski Pupin ","Serbia",1858,1935,"Serbia",44.02432285,21.076574332099,41.8577007,46.1900524,18.8142875,23.006309
+"175",175,"https://en.wikipedia.org/wiki/John_J._Montgomery","John J. Montgomery ","United States",1858,1911,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"176",176,"https://en.wikipedia.org/wiki/Pierre_Curie","Pierre Curie ","France",1859,1906,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"177",177,"https://en.wikipedia.org/wiki/Charles_Edouard_Guillaume","Charles Édouard Guillaume ","Switzerland",1861,1931,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"178",178,"https://en.wikipedia.org/wiki/Emil_Wiechert","Emil Wiechert ","Germany",1861,1928,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"179",179,"https://en.wikipedia.org/wiki/Vilhelm_Bjerknes","Vilhelm Bjerknes ","Norway",1862,1951,"Norway",64.5731537,11.5280364395482,57.7590052,71.3848787,4.0875274,31.7614911
+"180",180,"https://en.wikipedia.org/wiki/Philipp_Lenard","Philipp Lenard ","Hungary",1862,1947,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"181",181,"https://en.wikipedia.org/wiki/William_Henry_Bragg","William Henry Bragg ","United Kingdom",1862,1942,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"182",182,"https://en.wikipedia.org/wiki/Paul_Drude","Paul Drude ","Germany",1863,1906,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"183",183,"https://en.wikipedia.org/wiki/Wilhelm_Wien","Wilhelm Wien ","Germany",1864,1928,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"184",184,"https://en.wikipedia.org/wiki/Pieter_Zeeman","Pieter Zeeman ","Netherlands",1865,1943,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"185",185,"https://en.wikipedia.org/wiki/Margrete_Heiberg_Bose","Margrete Heiberg Bose ","Denmark",1866,1952,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"186",186,"https://en.wikipedia.org/wiki/Pyotr_Nikolaevich_Lebedev","Pyotr Nikolaevich Lebedev ","Russia",1866,1912,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"187",187,"https://en.wikipedia.org/wiki/Marie_Curie","Marie Curie ","Poland",1867,1934,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"188",188,"https://en.wikipedia.org/wiki/John_Sealy_Townsend","John Townsend ","United Kingdom",1868,1957,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"189",189,"https://en.wikipedia.org/wiki/Robert_W._Wood","Robert W. Wood ","United States",1868,1955,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"190",190,"https://en.wikipedia.org/wiki/Robert_Millikan","Robert Andrews Millikan ","United States",1868,1953,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"191",191,"https://en.wikipedia.org/wiki/Arnold_Sommerfeld","Arnold Sommerfeld ","Germany",1868,1951,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"192",192,"https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson","Charles Thomson Rees Wilson ","United Kingdom",1869,1959,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"193",193,"https://en.wikipedia.org/wiki/Alfred-Marie_Li%C3%A9nard","Alfred-Marie Liénard ","France",1869,1958,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"194",194,"https://en.wikipedia.org/wiki/Gustaf_Dal%C3%A9n","Gustaf Dalén ","Sweden",1869,1937,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"195",195,"https://en.wikipedia.org/wiki/Georges_Sagnac","Georges Sagnac ","France",1869,1926,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"196",196,"https://en.wikipedia.org/wiki/Arthur_Korn","Arthur Korn ","Germany",1870,1945,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"197",197,"https://en.wikipedia.org/wiki/Jean_Baptiste_Perrin","Jean Baptiste Perrin ","France",1870,1942,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"198",198,"https://en.wikipedia.org/wiki/Martin_Knudsen","Martin Knudsen ","Denmark",1871,1949,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"199",199,"https://en.wikipedia.org/wiki/Ernest_Rutherford","Ernest Rutherford ","New Zealand",1871,1937,"New Zealand",-41.5000831,172.8344077,-52.8213687,-29.0303303,-179.059153,179.3643594
+"200",200,"https://en.wikipedia.org/wiki/John_Zeleny","John Zeleny ","United States",1872,1951,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"201",201,"https://en.wikipedia.org/wiki/Ludwik_Silberstein","Ludwik Silberstein ","Poland",1872,1948,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"202",202,"https://en.wikipedia.org/wiki/Paul_Langevin","Paul Langevin ","France",1872,1946,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"203",203,"https://en.wikipedia.org/wiki/Willem_de_Sitter","Willem de Sitter ","Netherlands",1872,1934,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"204",204,"https://en.wikipedia.org/wiki/Marian_Smoluchowski","Marian Smoluchowski ","Poland",1872,1917,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"205",205,"https://en.wikipedia.org/wiki/Johannes_Stark","Johannes Stark ","Germany",1874,1957,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"206",206,"https://en.wikipedia.org/wiki/Guglielmo_Marconi","Guglielmo Marconi ","Italy",1874,1937,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"207",207,"https://en.wikipedia.org/wiki/Friedrich_Hasen%C3%B6hrl","Friedrich Hasenöhrl ","Austria",1874,1915,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"208",208,"https://en.wikipedia.org/wiki/William_Eccles","William Eccles ","United Kingdom",1875,1966,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"209",209,"https://en.wikipedia.org/wiki/Ludwig_Prandtl","Ludwig Prandtl ","Germany",1875,1953,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"210",210,"https://en.wikipedia.org/wiki/Luigi_Puccianti","Luigi Puccianti ","Italy",1875,1952,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"211",211,"https://en.wikipedia.org/wiki/Frederick_Grover","Frederick Grover ","United States",1876,1973,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"212",212,"https://en.wikipedia.org/wiki/George_B._Pegram","George B. Pegram ","United States",1876,1958,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"213",213,"https://en.wikipedia.org/wiki/Willem_Hendrik_Keesom","Willem Hendrik Keesom ","Netherlands",1876,1956,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"214",214,"https://en.wikipedia.org/wiki/Ernest_Esclangon","Ernest Esclangon ","France",1876,1954,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"215",215,"https://en.wikipedia.org/wiki/Karl_Schwarzschild","Karl Schwarzschild ","Germany",1876,1916,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"216",216,"https://en.wikipedia.org/wiki/James_Hopwood_Jeans","Sir James Jeans ","United Kingdom",1877,1946,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"217",217,"https://en.wikipedia.org/wiki/Charles_Glover_Barkla","Charles Glover Barkla ","United Kingdom",1877,1944,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"218",218,"https://en.wikipedia.org/wiki/Lise_Meitner","Lise Meitner ","Austria",1878,1968,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"219",219,"https://en.wikipedia.org/wiki/Wander_Johannes_de_Haas","Wander Johannes de Haas ","Netherlands",1878,1960,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"220",220,"https://en.wikipedia.org/wiki/Robert_von_Lieben","Robert von Lieben ","Austria",1878,1913,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"221",221,"https://en.wikipedia.org/wiki/Walther_Ritz","Walther Ritz ","Switzerland",1878,1909,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"222",222,"https://en.wikipedia.org/wiki/Otto_Hahn","Otto Hahn ","Germany",1879,1968,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"223",223,"https://en.wikipedia.org/wiki/Max_von_Laue","Max von Laue ","Germany",1879,1960,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"224",224,"https://en.wikipedia.org/wiki/Owen_Willans_Richardson","Owen Willans Richardson ","United Kingdom",1879,1959,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"225",225,"https://en.wikipedia.org/wiki/Albert_Einstein","Albert Einstein ","Germany",1879,1955,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"226",226,"https://en.wikipedia.org/wiki/Carl_Ramsauer","Carl Ramsauer ","Germany",1879,1955,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"227",227,"https://en.wikipedia.org/wiki/Felix_Ehrenhaft","Felix Ehrenhaft ","Austria",1879,1952,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"228",228,"https://en.wikipedia.org/wiki/Leonid_Isaakovich_Mandelshtam","Leonid Isaakovich Mandelshtam ","Russia",1879,1944,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"229",229,"https://en.wikipedia.org/wiki/Gabriele_Rabel","Gabriele Rabel ","Austria",1880,1963,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"230",230,"https://en.wikipedia.org/wiki/Leonard_Salomon_Ornstein","Leonard Salomon Ornstein ","Netherlands",1880,1941,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"231",231,"https://en.wikipedia.org/wiki/Paul_Ehrenfest","Paul Ehrenfest ","Austria",1880,1933,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"232",232,"https://en.wikipedia.org/wiki/T._H._Laby","TH Laby ","Australia",1880,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"233",233,"https://en.wikipedia.org/wiki/Theodore_von_K%C3%A1rm%C3%A1n","Theodore von Kármán ","Hungary",1881,1963,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"234",234,"https://en.wikipedia.org/wiki/Clinton_Davisson","Clinton Davisson ","United States",1881,1958,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"235",235,"https://en.wikipedia.org/wiki/Irving_Langmuir","Irving Langmuir ","United States",1881,1957,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"236",236,"https://en.wikipedia.org/wiki/Floyd_K._Richtmyer","Floyd K. Richtmyer ","United States",1881,1939,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"237",237,"https://en.wikipedia.org/wiki/Gunnar_Nordstr%C3%B6m","Gunnar Nordström ","Finland",1881,1923,"Finland",63.2467777,25.9209164,59.4541578,70.0922939,19.0832098,31.5867071
+"238",238,"https://en.wikipedia.org/wiki/Max_Born","Max Born ","Germany",1882,1970,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"239",239,"https://en.wikipedia.org/wiki/James_Franck","James Franck ","Germany",1882,1964,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"240",240,"https://en.wikipedia.org/wiki/Percy_Williams_Bridgman","Percy Williams Bridgman ","United States",1882,1961,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"241",241,"https://en.wikipedia.org/wiki/Hans_Geiger","Hans Geiger ","Germany",1882,1945,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"242",242,"https://en.wikipedia.org/wiki/Arthur_Stanley_Eddington","Arthur Stanley Eddington ","United Kingdom",1882,1944,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"243",243,"https://en.wikipedia.org/wiki/Emmy_Noether","Emmy Noether ","Germany",1882,1935,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"244",244,"https://en.wikipedia.org/wiki/Victor_Francis_Hess","Victor Francis Hess ","Austria",1883,1964,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"245",245,"https://en.wikipedia.org/wiki/Elmer_Imes","Elmer Imes ","United States",1883,1941,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"246",246,"https://en.wikipedia.org/wiki/Peter_Debye","Peter Debije ","Netherlands",1884,1966,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"247",247,"https://en.wikipedia.org/wiki/David_Enskog","David Enskog ","Sweden",1884,1947,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"248",248,"https://en.wikipedia.org/wiki/Max_Volmer","Max Volmer ","Germany",1885,1965,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"249",249,"https://en.wikipedia.org/wiki/Niels_Bohr","Niels Bohr ","Denmark",1885,1962,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"250",250,"https://en.wikipedia.org/wiki/Hermann_Weyl","Hermann Weyl","Germany",1885,1955,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"251",251,"https://en.wikipedia.org/wiki/Theodor_Kaluza","Theodor Kaluza ","Germany",1885,1954,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"252",252,"https://en.wikipedia.org/wiki/Manne_Siegbahn","Manne Siegbahn ","Sweden",1886,1978,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"253",253,"https://en.wikipedia.org/wiki/Walter_H._Schottky","Walter H. Schottky ","Germany",1886,1976,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"254",254,"https://en.wikipedia.org/wiki/Geoffrey_Ingram_Taylor","Geoffrey Ingram Taylor ","United Kingdom",1886,1975,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"255",255,"https://en.wikipedia.org/wiki/Arthur_Jeffrey_Dempster","Arthur Jeffrey Dempster ","Canada",1886,1950,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"256",256,"https://en.wikipedia.org/wiki/Karl_Glitscher","Karl Glitscher ","Germany",1886,1945,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"257",257,"https://en.wikipedia.org/wiki/Raymond_T._Birge","Raymond T. Birge ","United States",1887,1980,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"258",258,"https://en.wikipedia.org/wiki/Gustav_Ludwig_Hertz","Gustav Ludwig Hertz ","Germany",1887,1975,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"259",259,"https://en.wikipedia.org/wiki/Kazimierz_Fajans","Kazimierz Fajans ","Poland",1887,1975,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"260",260,"https://en.wikipedia.org/wiki/Alfred_Lee_Loomis","Alfred Lee Loomis ","United States",1887,1975,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"261",261,"https://en.wikipedia.org/wiki/Adriaan_Fokker","Adriaan Fokker ","Netherlands",1887,1972,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"262",262,"https://en.wikipedia.org/wiki/Charles_Galton_Darwin","Charles Galton Darwin ","United Kingdom",1887,1962,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"263",263,"https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger","Erwin Schrödinger ","Austria",1887,1961,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"264",264,"https://en.wikipedia.org/wiki/Karl_Compton","Karl Compton ","United States",1887,1954,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"265",265,"https://en.wikipedia.org/wiki/Henry_Moseley","Henry Moseley ","United Kingdom",1887,1915,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"266",266,"https://en.wikipedia.org/wiki/Johannes_Fischer","Johannes Fischer ","Germany",1887,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"267",267,"https://en.wikipedia.org/wiki/Paul_Peter_Ewald","Paul Peter Ewald ","Germany",1888,1985,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"268",268,"https://en.wikipedia.org/wiki/Chandrasekhara_Venkata_Raman","Chandrasekhara Venkata Raman ","India",1888,1970,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"269",269,"https://en.wikipedia.org/wiki/Otto_Stern","Otto Stern ","Germany",1888,1969,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"270",270,"https://en.wikipedia.org/wiki/Frits_Zernike","Frits Zernike ","Netherlands",1888,1960,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"271",271,"https://en.wikipedia.org/wiki/Walther_Kossel","Walther Kossel ","Germany",1888,1956,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"272",272,"https://en.wikipedia.org/wiki/Archibald_Low","Archibald Low ","United Kingdom",1888,1956,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"273",273,"https://en.wikipedia.org/wiki/Alexander_Friedman","Alexander Friedman ","Russia",1888,1925,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"274",274,"https://en.wikipedia.org/wiki/Edwin_C._Kemble","Edwin C. Kemble ","United States",1889,1984,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"275",275,"https://en.wikipedia.org/wiki/Walter_Gerlach","Walter Gerlach ","Germany",1889,1979,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"276",276,"https://en.wikipedia.org/wiki/L%C3%A9on_Brillouin","Léon Nicolas Brillouin ","France",1889,1969,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"277",277,"https://en.wikipedia.org/wiki/Balthasar_van_der_Pol","Balthasar van der Pol","Netherlands",1889,1959,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"278",278,"https://en.wikipedia.org/wiki/Edwin_Powell_Hubble","Edwin Powell Hubble ","United States",1889,1953,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"279",279,"https://en.wikipedia.org/wiki/Ralph_H._Fowler","Ralph H. Fowler ","United Kingdom",1889,1944,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"280",280,"https://en.wikipedia.org/wiki/William_Lawrence_Bragg","William Lawrence Bragg ","United Kingdom",1890,1971,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"281",281,"https://en.wikipedia.org/wiki/Friedrich_Burmeister","Friedrich Burmeister ","Germany",1890,1969,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"282",282,"https://en.wikipedia.org/wiki/James_Chadwick","James Chadwick ","United Kingdom",1891,1974,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"283",283,"https://en.wikipedia.org/wiki/Walther_Bothe","Walther Bothe ","Germany",1891,1957,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"284",284,"https://en.wikipedia.org/wiki/Sergei_Vavilov","Sergei Vavilov ","Russia",1891,1951,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"285",285,"https://en.wikipedia.org/wiki/Louis-Victor_de_Broglie","Louis-Victor de Broglie ","France",1892,1987,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"286",286,"https://en.wikipedia.org/wiki/Karl_Herzfeld","Karl Herzfeld ","Austria",1892,1978,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"287",287,"https://en.wikipedia.org/wiki/George_Paget_Thomson","George Paget Thomson ","United Kingdom",1892,1975,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"288",288,"https://en.wikipedia.org/wiki/Edward_Victor_Appleton","Edward Victor Appleton ","United Kingdom",1892,1965,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"289",289,"https://en.wikipedia.org/wiki/Arthur_Compton","Arthur Compton ","United States",1892,1962,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"290",290,"https://en.wikipedia.org/wiki/Adolf_Kratzer","Adolf Kratzer ","Germany",1893,1983,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"291",291,"https://en.wikipedia.org/wiki/Erwin_Fues","Erwin Fues ","Germany",1893,1970,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"292",292,"https://en.wikipedia.org/wiki/Megh_Nad_Saha","Megh Nad Saha ","India",1893,1956,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"293",293,"https://en.wikipedia.org/wiki/Pyotr_Kapitsa","Pyotr Kapitsa ","Russia",1894,1984,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"294",294,"https://en.wikipedia.org/wiki/Oskar_Klein","Oskar Klein ","Sweden",1894,1977,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"295",295,"https://en.wikipedia.org/wiki/Satyendra_Nath_Bose","Satyendra Nath Bose ","India",1894,1974,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"296",296,"https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre","Georges Lemaître ","Belgium",1894,1966,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"297",297,"https://en.wikipedia.org/wiki/Henk_Dorgelo","Henk Dorgelo ","Netherlands",1894,1961,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"298",298,"https://en.wikipedia.org/wiki/Christian_Gerthsen","Christian Gerthsen ","Denmark",1894,1956,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"299",299,"https://en.wikipedia.org/wiki/John_Lennard-Jones","John Lennard-Jones ","United Kingdom",1894,1954,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"300",300,"https://en.wikipedia.org/wiki/Hendrik_Kramers","Hendrik Kramers ","Netherlands",1894,1952,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"301",301,"https://en.wikipedia.org/wiki/Charles_Lambert_Manneback","Charles Lambert Manneback ","Belgium",1894,NA,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"302",302,"https://en.wikipedia.org/wiki/Robert_D%C3%B6pel","Robert Döpel ","Germany",1895,1982,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"303",303,"https://en.wikipedia.org/wiki/Johannes_Martinus_Burgers","Johannes Martinus Burgers ","Netherlands",1895,1981,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"304",304,"https://en.wikipedia.org/wiki/Igor_Yevgenyevich_Tamm","Igor Yevgenyevich Tamm ","Russia",1895,1971,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"305",305,"https://en.wikipedia.org/wiki/Friedrich_Hund","Friedrich Hund ","Germany",1896,1997,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"306",306,"https://en.wikipedia.org/wiki/Robert_S._Mulliken","Robert S. Mulliken ","United States",1896,1986,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"307",307,"https://en.wikipedia.org/wiki/Nikolay_Semyonov","Nikolay Semyonov ","Russia",1896,1986,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"308",308,"https://en.wikipedia.org/wiki/Gleb_Wataghin","Gleb Wataghin ","Ukraine",1896,1986,"Ukraine",49.4871968,31.2718321,44.184598,52.3791473,22.137059,40.2275801
+"309",309,"https://en.wikipedia.org/wiki/Boris_Podolsky","Boris Podolsky ","Taganrog",1896,1966,"Taganrog",47.2153657,38.9285216,47.1887122,47.2899427,38.7929772,38.9701473
+"310",310,"https://en.wikipedia.org/wiki/Arthur_Milne","Arthur Milne ","United Kingdom",1896,1950,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"311",311,"https://en.wikipedia.org/wiki/Francis_G._Slack","Francis G. Slack ","United States",1897,1985,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"312",312,"https://en.wikipedia.org/wiki/Patrick_Blackett","Patrick Blackett ","United Kingdom",1897,1974,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"313",313,"https://en.wikipedia.org/wiki/Lewi_Tonks","Lewi Tonks ","United States",1897,1971,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"314",314,"https://en.wikipedia.org/wiki/John_Cockcroft","John Cockcroft ","United Kingdom",1897,1967,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"315",315,"https://en.wikipedia.org/wiki/Boyd_Bartlett","Boyd Bartlett ","United States",1897,1965,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"316",316,"https://en.wikipedia.org/wiki/Douglas_Hartree","Douglas Hartree ","United Kingdom",1897,1958,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"317",317,"https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie","Irène Joliot-Curie ","France",1897,1956,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"318",318,"https://en.wikipedia.org/wiki/Isidor_Isaac_Rabi","Isidor Isaac Rabi ","Austria",1898,1988,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"319",319,"https://en.wikipedia.org/wiki/Gregor_Wentzel","Gregor Wentzel ","Germany",1898,1978,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"320",320,"https://en.wikipedia.org/wiki/Vladimir_Fock","Vladimir Fock ","Russia",1898,1974,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"321",321,"https://en.wikipedia.org/wiki/Leo_Szilard","Leo Szilard ","Austria",1898,1964,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"322",322,"https://en.wikipedia.org/wiki/Carl_Hermann","Carl Hermann ","Germany",1898,1961,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"323",323,"https://en.wikipedia.org/wiki/Carl-Gustav_Arvid_Rossby","Carl-Gustav Arvid Rossby ","Sweden",1898,1957,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"324",324,"https://en.wikipedia.org/wiki/Moustafa_Mosharafa","Ali Moustafa ","Egypt",1898,1950,"Egypt",26.2540493,29.2675469,21.9936506,31.8330854,24.6499112,37.1153517
+"325",325,"https://en.wikipedia.org/wiki/Charlotte_Riefenstahl","Charlotte (née Riefenstahl) Houtermans ","Germany",1899,1993,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"326",326,"https://en.wikipedia.org/wiki/Charlotte_Riefenstahl","Charlotte Riefenstahl ","Germany",1899,1993,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"327",327,"https://en.wikipedia.org/wiki/Peter_Adolf_Thiessen","Peter Adolf Thiessen ","Germany",1899,1990,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"328",328,"https://en.wikipedia.org/wiki/Lothar_Nordheim","Lothar Nordheim ","Germany",1899,1985,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"329",329,"https://en.wikipedia.org/wiki/John_Hasbrouck_van_Vleck","John Hasbrouck van Vleck ","United States",1899,1980,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"330",330,"https://en.wikipedia.org/wiki/Ernst_Ising","Ernst Ising ","Germany",1900,1998,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"331",331,"https://en.wikipedia.org/wiki/Zolt%C3%A1n_Lajos_Bay","Zoltán Lajos Bay ","Hungary",1900,1992,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"332",332,"https://en.wikipedia.org/wiki/George_Eugene_Uhlenbeck","George Eugene Uhlenbeck ","Netherlands",1900,1988,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"333",333,"https://en.wikipedia.org/wiki/Ernst_Br%C3%BCche","Ernst Brüche ","Germany",1900,1985,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"334",334,"https://en.wikipedia.org/wiki/Dennis_Gabor","Dennis Gabor ","Hungary",1900,1979,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"335",335,"https://en.wikipedia.org/wiki/David_M._Dennison","David M. Dennison ","United States",1900,1976,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"336",336,"https://en.wikipedia.org/wiki/John_C._Slater","John C. Slater ","United States",1900,1976,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"337",337,"https://en.wikipedia.org/wiki/William_V._Houston","William V. Houston ","United States",1900,1968,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"338",338,"https://en.wikipedia.org/wiki/Samuel_King_Allison","Samuel King Allison ","United States",1900,1965,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"339",339,"https://en.wikipedia.org/wiki/Wolfgang_Pauli","Wolfgang Pauli ","Austria",1900,1958,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"340",340,"https://en.wikipedia.org/wiki/Mark_Oliphant","Sir Mark Oliphant ","Australia",1901,2000,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"341",341,"https://en.wikipedia.org/wiki/William_Allis","William Allis ","United States",1901,1999,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"342",342,"https://en.wikipedia.org/wiki/Nikolaus_Riehl","Nikolaus Riehl ","Germany",1901,1990,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"343",343,"https://en.wikipedia.org/wiki/Egon_Orowan","Egon Orowan ","Austria",1901,1989,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"344",344,"https://en.wikipedia.org/wiki/Karl_Bechert","Karl Bechert ","Germany",1901,1981,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"345",345,"https://en.wikipedia.org/wiki/Henry_Margenau","Henry Margenau ","Germany",1901,1977,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"346",346,"https://en.wikipedia.org/wiki/Werner_Heisenberg","Werner Heisenberg ","Germany",1901,1976,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"347",347,"https://en.wikipedia.org/wiki/Ernest_Lawrence","Ernest Lawrence ","United States",1901,1958,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"348",348,"https://en.wikipedia.org/wiki/Enrico_Fermi","Enrico Fermi ","Italy",1901,1954,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"349",349,"https://en.wikipedia.org/wiki/Lev_Shubnikov","Lev Shubnikov ","Russia",1901,1937,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"350",350,"https://en.wikipedia.org/wiki/Eugene_Wigner","Eugene Wigner ","Austria",1902,1993,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"351",351,"https://en.wikipedia.org/wiki/Walter_Houser_Brattain","Walter Houser Brattain ","United States",1902,1987,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"352",352,"https://en.wikipedia.org/wiki/G._N._Glasoe","G. N. Glasoe ","United States",1902,1987,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"353",353,"https://en.wikipedia.org/wiki/Paul_Harteck","Paul Harteck ","Germany",1902,1985,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"354",354,"https://en.wikipedia.org/wiki/Paul_Dirac","Paul Dirac ","Switzerland",1902,1984,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"355",355,"https://en.wikipedia.org/wiki/Alfred_Kastler","Alfred Kastler ","France",1902,1984,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"356",356,"https://en.wikipedia.org/wiki/Pascual_Jordan","Pascual Jordan ","Germany",1902,1980,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"357",357,"https://en.wikipedia.org/wiki/Samuel_Goudsmit","Samuel Goudsmit ","Netherlands",1902,1978,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"358",358,"https://en.wikipedia.org/wiki/Edward_Condon","Edward Condon ","United States",1902,1974,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"359",359,"https://en.wikipedia.org/wiki/Carl_Eckart","Carl Eckart ","United States",1902,1973,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"360",360,"https://en.wikipedia.org/wiki/Wang_Pu_(physicist)","Pu (Paul) Wang ","China",1902,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"361",361,"https://en.wikipedia.org/wiki/Bertha_Swirles","Bertha Swirles ","United Kingdom",1903,1999,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"362",362,"https://en.wikipedia.org/wiki/Ernest_Walton","Ernest Walton ","Ireland",1903,1995,"Ireland",52.865196,-7.9794599,51.222,55.636,-11.0133788,-5.6582363
+"363",363,"https://en.wikipedia.org/wiki/Arpad_Elo","Arpad Elo ","Hungary",1903,1992,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"364",364,"https://en.wikipedia.org/wiki/Mahmoud_Hessaby","Mahmoud Hessaby ","Iran",1903,1992,"Iran",32.6475314,54.5643516,24.8465103,39.7824624,44.0318908,63.3332704
+"365",365,"https://en.wikipedia.org/wiki/Helmut_H%C3%B6nl","Helmut Hönl ","Germany",1903,1981,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"366",366,"https://en.wikipedia.org/wiki/Lars_Onsager","Lars Onsager ","Norway",1903,1976,"Norway",64.5731537,11.5280364395482,57.7590052,71.3848787,4.0875274,31.7614911
+"367",367,"https://en.wikipedia.org/wiki/Cecil_Frank_Powell","Cecil Frank Powell ","United Kingdom",1903,1969,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"368",368,"https://en.wikipedia.org/wiki/Fritz_Houtermans","Fritz Houtermans ","Netherlands",1903,1966,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"369",369,"https://en.wikipedia.org/wiki/Igor_Vasilyevich_Kurchatov","Igor Vasilyevich Kurchatov ","Russia",1903,1960,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"370",370,"https://en.wikipedia.org/wiki/John_von_Neumann","John von Neumann ","Austria",1903,1957,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"371",371,"https://en.wikipedia.org/wiki/Louis_N%C3%A9el","Louis Néel ","France",1904,2000,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"372",372,"https://en.wikipedia.org/wiki/Yulii_Borisovich_Khariton","Yulii Borisovich Khariton ","Russia",1904,1996,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"373",373,"https://en.wikipedia.org/wiki/Ralph_Kronig","Ralph Kronig ","Germany",1904,1995,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"374",374,"https://en.wikipedia.org/wiki/Carolina_Henriette_Mac_Gillavry","Carolina Henriette Mac Gillavry ","Netherlands",1904,1993,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"375",375,"https://en.wikipedia.org/wiki/Pavel_Alekseyevich_Cherenkov","Pavel Alekseyevich Cherenkov ","Russia",1904,1990,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"376",376,"https://en.wikipedia.org/wiki/William_Fuller_Brown,_Jr.","William Fuller Brown, Jr. ","United States",1904,1983,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"377",377,"https://en.wikipedia.org/wiki/Walter_Boas","Walter Boas ","Germany",1904,1982,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"378",378,"https://en.wikipedia.org/wiki/Walter_Heitler","Walter Heitler ","Germany",1904,1981,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"379",379,"https://en.wikipedia.org/wiki/Otto_Frisch","Otto Frisch ","Austria",1904,1979,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"380",380,"https://en.wikipedia.org/wiki/Adolfas_Jucys","Adolfas Jucys ","Lithuania",1904,1974,"Lithuania",55.3500003,23.7499997,53.8967893,56.4504213,20.6557167,26.8355198
+"381",381,"https://en.wikipedia.org/wiki/George_Gamow","George Gamow ","Russia",1904,1968,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"382",382,"https://en.wikipedia.org/wiki/Robert_Oppenheimer","Robert Oppenheimer ","United States",1904,1967,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"383",383,"https://en.wikipedia.org/wiki/Hermann_Br%C3%BCck","Hermann Brück ","Germany",1905,2000,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"384",384,"https://en.wikipedia.org/wiki/Nevill_Mott","Nevill Mott ","United Kingdom",1905,1996,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"385",385,"https://en.wikipedia.org/wiki/Bruno_Rossi","Bruno Rossi ","Italy",1905,1993,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"386",386,"https://en.wikipedia.org/wiki/Carl_David_Anderson","Carl David Anderson ","United States",1905,1991,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"387",387,"https://en.wikipedia.org/wiki/Emilio_G._Segre","Emilio G. Segre ","Italy",1905,1989,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"388",388,"https://en.wikipedia.org/wiki/Ernst_Stueckelberg","Ernst Stueckelberg ","Switzerland",1905,1984,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"389",389,"https://en.wikipedia.org/wiki/Felix_Bloch","Felix Bloch ","Switzerland",1905,1983,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"390",390,"https://en.wikipedia.org/wiki/Heinz_Pose","Heinz Pose ","Germany",1905,1975,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"391",391,"https://en.wikipedia.org/wiki/Baien_Tomlin","Baien Tomlin ","United Kingdom",1905,1972,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"392",392,"https://en.wikipedia.org/wiki/Wolfgang_Finkelnburg","Wolfgang Finkelnburg ","Germany",1905,1967,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"393",393,"https://en.wikipedia.org/wiki/Wang_Dezhao","Dezhao Wang ","China",1905,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"394",394,"https://en.wikipedia.org/wiki/Hans_Bethe","Hans Bethe ","Germany",1906,2005,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"395",395,"https://en.wikipedia.org/wiki/Raymond_Seeger","Raymond Seeger ","United States",1906,1992,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"396",396,"https://en.wikipedia.org/wiki/Ernst_Ruska","Ernst August Friedrich Ruska ","Germany",1906,1988,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"397",397,"https://en.wikipedia.org/wiki/Max_Delbr%C3%BCck","Max Delbrück ","Germany",1906,1981,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"398",398,"https://en.wikipedia.org/wiki/Sin-Itiro_Tomonaga","Sin-Itiro Tomonaga ","Japan",1906,1979,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"399",399,"https://en.wikipedia.org/wiki/Eugene_Feenberg","Eugene Feenberg ","United States",1906,1977,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"400",400,"https://en.wikipedia.org/wiki/Maria_Goeppert-Mayer","Maria Goeppert-Mayer ","Germany",1906,1972,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"401",401,"https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer","Maria Goeppert Mayer ","Germany",1906,1972,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"402",402,"https://en.wikipedia.org/wiki/Ettore_Majorana","Ettore Majorana ","Italy",1906,1938,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"403",403,"https://en.wikipedia.org/wiki/William_Markowitz","William Markowitz ","United States",1907,1998,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"404",404,"https://en.wikipedia.org/wiki/Konstantin_Petrzhak","Konstantin Petrzhak ","Russia",1907,1998,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"405",405,"https://en.wikipedia.org/wiki/Kan-Chang_Wang","Kan-Chang Wang ","China",1907,1998,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"406",406,"https://en.wikipedia.org/wiki/Manfred_von_Ardenne","Manfred von Ardenne ","Germany",1907,1997,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"407",407,"https://en.wikipedia.org/wiki/Rudolf_Peierls","Rudolf Peierls ","Germany",1907,1995,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"408",408,"https://en.wikipedia.org/wiki/Edward_Ramberg","Edward Ramberg ","United States",1907,1995,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"409",409,"https://en.wikipedia.org/wiki/Seth_Neddermeyer","Seth Neddermeyer ","United States",1907,1988,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"410",410,"https://en.wikipedia.org/wiki/Hideki_Yukawa","Hideki Yukawa ","Japan",1907,1981,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"411",411,"https://en.wikipedia.org/wiki/Lew_Kowarski","Lew Kowarski ","France",1907,1979,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"412",412,"https://en.wikipedia.org/wiki/J._Hans_D._Jensen","Johannes Hans Daniel Jensen ","Germany",1907,1973,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"413",413,"https://en.wikipedia.org/wiki/Samuel_Tolansky","Samuel Tolansky ","United Kingdom",1907,1973,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"414",414,"https://en.wikipedia.org/wiki/Joseph_Rotblat","Joseph Rotblat ","Poland",1908,2005,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"415",415,"https://en.wikipedia.org/wiki/Edward_Teller","Edward Teller ","Austria",1908,2003,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"416",416,"https://en.wikipedia.org/wiki/Victor_Frederick_Weisskopf","Victor Frederick Weisskopf ","Austria",1908,2002,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"417",417,"https://en.wikipedia.org/wiki/Louis_Essen","Louis Essen ","United Kingdom",1908,1997,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"418",418,"https://en.wikipedia.org/wiki/Viktor_Ambartsumian","Viktor Ambartsumian ","Russia",1908,1996,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"419",419,"https://en.wikipedia.org/wiki/Viktor_Hambardzumyan","Viktor Hambardzumyan ","Armenia",1908,1996,"Armenia",40.7696272,44.6736646,38.8404775,41.300712,43.4471395,46.6333087
+"420",420,"https://en.wikipedia.org/wiki/Hannes_Olof_G%C3%B6sta_Alfv%C3%A9n","Hannes Olof Gösta Alfvén ","Sweden",1908,1995,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"421",421,"https://en.wikipedia.org/wiki/John_Bardeen","John Bardeen ","United States",1908,1991,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"422",422,"https://en.wikipedia.org/wiki/Milton_S._Plesset","Milton S. Plesset ","United States",1908,1991,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"423",423,"https://en.wikipedia.org/wiki/Ilya_Frank","Ilya Frank ","Russia",1908,1990,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"424",424,"https://en.wikipedia.org/wiki/Harrie_Massey","Harrie Massey ","Australia",1908,1983,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"425",425,"https://en.wikipedia.org/wiki/Anatoly_Vlasov","Anatoly Vlasov ","Russia",1908,1975,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"426",426,"https://en.wikipedia.org/wiki/Lev_Davidovich_Landau","Lev Davidovich Landau ","Russia",1908,1968,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"427",427,"https://en.wikipedia.org/wiki/Hendrik_Casimir","Hendrik Casimir ","Netherlands",1909,2000,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"428",428,"https://en.wikipedia.org/wiki/Robert_Serber","Robert Serber ","United States",1909,1997,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"429",429,"https://en.wikipedia.org/wiki/Nikolay_Bogolyubov","Nikolay Bogolyubov ","Russia",1909,1992,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"430",430,"https://en.wikipedia.org/wiki/Gian-Carlo_Wick","Gian-Carlo Wick ","Italy",1909,1992,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"431",431,"https://en.wikipedia.org/wiki/Stanislaw_Ulam","Stanislaw Ulam ","Poland",1909,1984,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"432",432,"https://en.wikipedia.org/wiki/Erhard_Kietz","Erhard Kietz ","Germany",1909,1982,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"433",433,"https://en.wikipedia.org/wiki/Otto_Scherzer","Otto Scherzer ","Germany",1909,1982,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"434",434,"https://en.wikipedia.org/wiki/Homi_J._Bhabha","Homi J. Bhabha ","India",1909,1966,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"435",435,"https://en.wikipedia.org/wiki/W.W._Hansen","W.W. Hansen ","United States",1909,1949,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"436",436,"https://en.wikipedia.org/wiki/Nathan_Rosen","Nathan Rosen ","United States",1909,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"437",437,"https://en.wikipedia.org/wiki/Jos%C3%A9_Enrique_Moyal","José Enrique Moyal ","Palestine",1910,1998,"Palestine",31.94696655,35.273865472915,31.2201289,32.5521479,34.0689732,35.5739235
+"438",438,"https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar","Subrahmanyan Chandrasekhar ","India",1910,1995,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"439",439,"https://en.wikipedia.org/wiki/Charles_Critchfield","Charles Critchfield ","United States",1910,1994,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"440",440,"https://en.wikipedia.org/wiki/Dorothy_Crowfoot_Hodgkin","Dorothy Crowfoot Hodgkin ","England",1910,1994,"England",52.7954791,-0.540240286617432,49.674,55.917,-6.7047494,2.0919117
+"441",441,"https://en.wikipedia.org/wiki/Karl_Wirtz","Karl Wirtz ","Germany",1910,1994,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"442",442,"https://en.wikipedia.org/wiki/William_Shockley","William Shockley ","United States",1910,1989,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"443",443,"https://en.wikipedia.org/wiki/Elephter_Andronikashvili","Elephter Andronikashvili ","Georgia",1910,1989,"Georgia",32.3293809,-83.1137366,30.355757,35.0013614,-85.6052418,-80.751429
+"444",444,"https://en.wikipedia.org/wiki/Arsenij_Sokolov","Arsenij Sokolov ","Russia",1910,1986,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"445",445,"https://en.wikipedia.org/wiki/Hans_Ziegler_(physicist)","Hans Ziegler ","Switzerland",1910,1985,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"446",446,"https://en.wikipedia.org/wiki/Louis_Slotin","Louis Slotin ","United States",1910,1946,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"447",447,"https://en.wikipedia.org/wiki/Maurice_Goldhaber","Maurice Goldhaber ","Austria",1911,2011,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"448",448,"https://en.wikipedia.org/wiki/Yakov_Lvovich_Alpert","Yakov Lvovich Alpert ","Russia",1911,2010,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"449",449,"https://en.wikipedia.org/wiki/Frederick_Seitz","Frederick Seitz ","United States",1911,2008,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"450",450,"https://en.wikipedia.org/wiki/John_Archibald_Wheeler","John Archibald Wheeler ","United States",1911,2008,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"451",451,"https://en.wikipedia.org/wiki/Piara_Singh_Gill","Piara Singh Gill ","India",1911,2002,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"452",452,"https://en.wikipedia.org/wiki/Abraham_H._Taub","Abraham H. Taub ","United States",1911,1999,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"453",453,"https://en.wikipedia.org/wiki/William_Alfred_Fowler","William Alfred Fowler ","United States",1911,1995,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"454",454,"https://en.wikipedia.org/wiki/Polykarp_Kusch","Polykarp Kusch ","Germany",1911,1993,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"455",455,"https://en.wikipedia.org/wiki/Walter_Franz","Walter Franz ","Germany",1911,1992,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"456",456,"https://en.wikipedia.org/wiki/Luis_Walter_Alvarez","Luis Walter Alvarez ","United States",1911,1988,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"457",457,"https://en.wikipedia.org/wiki/Karl_Zimmer","Karl Zimmer ","Germany",1911,1988,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"458",458,"https://en.wikipedia.org/wiki/Shoichi_Sakata","Shoichi Sakata ","Japan",1911,1970,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"459",459,"https://en.wikipedia.org/wiki/Heinz_Barwich","Heinz Barwich ","Germany",1911,1966,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"460",460,"https://en.wikipedia.org/wiki/Wang_Zhuxi","Zhuxi Wang ","China",1911,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"461",461,"https://en.wikipedia.org/wiki/Carl_Friedrich_von_Weizs%C3%A4cker","Carl Friedrich von Weizsäcker ","Germany",1912,2007,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"462",462,"https://en.wikipedia.org/wiki/Eugene_T._Booth","Eugene T. Booth","United States",1912,2004,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"463",463,"https://en.wikipedia.org/wiki/Edward_Mills_Purcell","Edward Mills Purcell ","United States",1912,1997,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"464",464,"https://en.wikipedia.org/wiki/Chien-Shiung_Wu","Chien-Shiung Wu ","United States",1912,1997,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"465",465,"https://en.wikipedia.org/wiki/Heinrich_Welker","Heinrich Welker ","Germany",1912,1981,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"466",466,"https://en.wikipedia.org/wiki/Ruby_Payne-Scott","Ruby Payne-Scott","Australia",1912,1981,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"467",467,"https://en.wikipedia.org/wiki/Wernher_Von_Braun","Wernher Von Braun","Germany",1912,1977,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"468",468,"https://en.wikipedia.org/wiki/Willis_Lamb","Willis Lamb ","United States",1913,2008,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"469",469,"https://en.wikipedia.org/wiki/Robert_Adler","Robert Adler ","United States",1913,2007,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"470",470,"https://en.wikipedia.org/wiki/Wolfgang_Paul","Wolfgang Paul ","Germany",1913,1993,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"471",471,"https://en.wikipedia.org/wiki/Bruno_Pontecorvo","Bruno Pontecorvo ","Italy",1913,1993,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"472",472,"https://en.wikipedia.org/wiki/Nicol%C3%A1s_Cabrera","Nicolás Cabrera ","Spain",1913,1989,"Spain",39.3262345,-4.8380649,27.4335426,43.9933088,-18.3936845,4.5918885
+"473",473,"https://en.wikipedia.org/wiki/Ludwig_Waldmann","Ludwig Waldmann ","Germany",1913,1980,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"474",474,"https://en.wikipedia.org/wiki/Richard_Makinson","Richard Makinson ","Australia",1913,1979,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"475",475,"https://en.wikipedia.org/wiki/John_J._Turin","John J. Turin ","United States",1913,1973,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"476",476,"https://en.wikipedia.org/wiki/Raymond_Davis,_Jr.","Raymond Davis, Jr. ","United States",1914,2006,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"477",477,"https://en.wikipedia.org/wiki/Robert_R._Wilson","Robert R. Wilson ","United States",1914,2000,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"478",478,"https://en.wikipedia.org/wiki/Herbert_L._Anderson","Herbert L. Anderson ","United States",1914,1988,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"479",479,"https://en.wikipedia.org/wiki/Yakov_Borisovich_Zel%27dovich","Yakov Borisovich Zel'dovich ","Russia",1914,1987,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"480",480,"https://en.wikipedia.org/wiki/Norman_Foster_Ramsey,_Jr.","Norman Foster Ramsey, Jr. ","United States",1915,2011,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"481",481,"https://en.wikipedia.org/wiki/Alvin_Weinberg","Alvin Weinberg ","United States",1915,2006,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"482",482,"https://en.wikipedia.org/wiki/Clifford_Shull","Clifford Shull ","United States",1915,2001,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"483",483,"https://en.wikipedia.org/wiki/Fred_Hoyle","Fred Hoyle ","United Kingdom",1915,2001,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"484",484,"https://en.wikipedia.org/wiki/Amrom_Harry_Katz","Amrom Harry Katz ","United States",1915,1997,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"485",485,"https://en.wikipedia.org/wiki/Sudhansu_Datta_Majumdar","Sudhansu Datta Majumdar ","India",1915,1997,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"486",486,"https://en.wikipedia.org/wiki/G._V._Skrotskii","G. V. Skrotskii ","Russia",1915,1992,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"487",487,"https://en.wikipedia.org/wiki/Robert_Hofstadter","Robert Hofstadter ","United States",1915,1990,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"488",488,"https://en.wikipedia.org/wiki/Evgeny_Lifshitz","Evgeny Lifshitz ","Russia",1915,1985,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"489",489,"https://en.wikipedia.org/wiki/Charles_Townes","Charles Townes ","United States",1915,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"490",490,"https://en.wikipedia.org/wiki/Vitaly_Ginzburg","Vitaly Lazarevich Ginzburg ","Australia",1916,2009,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"491",491,"https://en.wikipedia.org/wiki/Alexander_Prokhorov","Alexander Prokhorov ","Russia",1916,2002,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"492",492,"https://en.wikipedia.org/wiki/Per-Olov_L%C3%B6wdin","Per-Olov Löwdin ","Sweden",1916,2000,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"493",493,"https://en.wikipedia.org/wiki/John_Alexander_Simpson","John Alexander Simpson ","United States",1916,2000,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"494",494,"https://en.wikipedia.org/wiki/Robert_G._Sachs","Robert G. Sachs ","United States",1916,1999,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"495",495,"https://en.wikipedia.org/wiki/Robert_Marshak","Robert Marshak ","United States",1916,1992,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"496",496,"https://en.wikipedia.org/wiki/Ernest_William_Titterton","Ernest William Titterton ","United Kingdom",1916,1990,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"497",497,"https://en.wikipedia.org/wiki/Alan_Walsh_(physicist)","Alan Walsh ","United Kingdom",1916,1988,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"498",498,"https://en.wikipedia.org/wiki/Ilya_Prigogine","Ilya Prigogine ","Belgium",1917,2003,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"499",499,"https://en.wikipedia.org/wiki/Herman_Feshbach","Herman Feshbach ","United States",1917,2000,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"500",500,"https://en.wikipedia.org/wiki/Willibald_Peter_Prasthofer","Willibald Peter Prasthofer ","Austria",1917,1993,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"501",501,"https://en.wikipedia.org/wiki/David_Bohm","David Bohm ","United States",1917,1992,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"502",502,"https://en.wikipedia.org/wiki/Dmitry_Zubarev","Dmitry Zubarev ","Russia",1917,1992,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"503",503,"https://en.wikipedia.org/wiki/James_Rainwater","James Rainwater ","United States",1917,1986,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"504",504,"https://en.wikipedia.org/wiki/Nikolay_Sergeevich_Krylov","Nikolay Sergeevich Krylov ","Russia",1917,1947,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"505",505,"https://en.wikipedia.org/wiki/Hans_Buchdahl","Hans Buchdahl ","Germany",1918,2010,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"506",506,"https://en.wikipedia.org/wiki/Kai_Siegbahn","Kai Siegbahn ","Sweden",1918,2007,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"507",507,"https://en.wikipedia.org/wiki/Bertram_Brockhouse","Bertram Brockhouse ","Canada",1918,2003,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"508",508,"https://en.wikipedia.org/wiki/Arthur_Iberall","Arthur Iberall","United States",1918,2002,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"509",509,"https://en.wikipedia.org/wiki/John_R._Winckler","John R. Winckler ","United States",1918,2001,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"510",510,"https://en.wikipedia.org/wiki/Abraham_Pais","Abraham Pais ","Netherlands",1918,2000,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"511",511,"https://en.wikipedia.org/wiki/Frederick_Reines","Frederick Reines ","United States",1918,1998,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"512",512,"https://en.wikipedia.org/wiki/Joan_Maie_Freeman","Joan Maie Freeman ","Australia",1918,1998,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"513",513,"https://en.wikipedia.org/wiki/Julian_Schwinger","Julian Schwinger","United States",1918,1994,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"514",514,"https://en.wikipedia.org/wiki/Hasan_Abdullayev","Hasan Abdullayev ","Azerbaijan",1918,1993,"Azerbaijan",40.3936294,47.7872508,38.3929551,41.9502947,44.7633701,51.0090302
+"515",515,"https://en.wikipedia.org/wiki/Richard_Feynman","Richard Feynman ","United States",1918,1988,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"516",516,"https://en.wikipedia.org/wiki/Martin_Ryle","Martin Ryle ","United Kingdom",1918,1984,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"517",517,"https://en.wikipedia.org/wiki/John_Pasta","John Pasta ","United States",1918,1984,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"518",518,"https://en.wikipedia.org/wiki/Gersh_Budker","Gersh Budker ","Russia",1918,1977,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"519",519,"https://en.wikipedia.org/wiki/Clemens_C._J._Roothaan","Clemens C. J. Roothaan ","Netherlands",1918,NA,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"520",520,"https://en.wikipedia.org/wiki/Peter_Westervelt","Peter Westervelt ","United States",1919,2015,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"521",521,"https://en.wikipedia.org/wiki/Wolfgang_K._H._Panofsky","Wolfgang K. H. Panofsky ","Germany",1919,2007,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"522",522,"https://en.wikipedia.org/wiki/Robert_B._Leighton","Robert B. Leighton ","United States",1919,1997,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"523",523,"https://en.wikipedia.org/wiki/Vikram_Sarabhai","Vikram Sarabhai ","India",1919,1971,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"524",524,"https://en.wikipedia.org/wiki/Isaak_Markovich_Khalatnikov","Isaak Markovich Khalatnikov ","Russia",1919,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"525",525,"https://en.wikipedia.org/wiki/Owen_Chamberlain","Owen Chamberlain ","United States",1920,2006,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"526",526,"https://en.wikipedia.org/wiki/Jean-Pierre_Vigier","Jean-Pierre Vigier ","France",1920,2004,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"527",527,"https://en.wikipedia.org/wiki/Gerald_Goertzel","Gerald Goertzel ","United States",1920,2002,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"528",528,"https://en.wikipedia.org/wiki/Edward_P._Ney","Edward P. Ney ","United States",1920,1996,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"529",529,"https://en.wikipedia.org/wiki/Ryogo_Kubo","Ryogo Kubo ","Japan",1920,1995,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"530",530,"https://en.wikipedia.org/wiki/Rosalind_Franklin","Rosalind Franklin ","United Kingdom",1920,1958,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"531",531,"https://en.wikipedia.org/wiki/Nicolaas_Bloembergen","Nicolaas Bloembergen ","Netherlands",1920,NA,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"532",532,"https://en.wikipedia.org/wiki/Ernest_Courant","Ernest Courant ","United States",1920,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"533",533,"https://en.wikipedia.org/wiki/Yoichiro_Nambu","Yoichiro Nambu ","Japan",1921,2015,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"534",534,"https://en.wikipedia.org/wiki/Rosalyn_Yalow","Rosalyn Yalow ","United States",1921,2011,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"535",535,"https://en.wikipedia.org/wiki/Jules_Aarons","Jules Aarons ","United States",1921,2008,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"536",536,"https://en.wikipedia.org/wiki/Ralph_Asher_Alpher","Ralph Asher Alpher ","United States",1921,2007,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"537",537,"https://en.wikipedia.org/wiki/Arthur_Leonard_Schawlow","Arthur Leonard Schawlow ","United States",1921,1999,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"538",538,"https://en.wikipedia.org/wiki/Igor_Ternov","Igor Ternov ","Russia",1921,1996,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"539",539,"https://en.wikipedia.org/wiki/Phyllis_S._Freier","Phyllis S. Freier ","United States",1921,1992,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"540",540,"https://en.wikipedia.org/wiki/Feza_G%C3%BCrsey","Feza Gürsey ","Turkey",1921,1992,"Turkey",38.9597594,34.9249653,35.8076804,42.297,25.6212891,44.8176638
+"541",541,"https://en.wikipedia.org/wiki/Bruno_Touschek","Bruno Touschek ","Italy",1921,1978,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"542",542,"https://en.wikipedia.org/wiki/Sergei_Tyablikov","Sergei Tyablikov ","Russia",1921,1968,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"543",543,"https://en.wikipedia.org/wiki/Ricardo_Carezani","Ricardo Carezani ","Argentina",1921,NA,"Argentina",-34.9964963,-64.9672817,-55.1850761,-21.781168,-73.5605371,-53.6374515
+"544",544,"https://en.wikipedia.org/wiki/Jack_Steinberger","Jack Steinberger ","Germany",1921,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"545",545,"https://en.wikipedia.org/wiki/Leon_M._Lederman","Leon Max Lederman ","United States",1922,2018,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"546",546,"https://en.wikipedia.org/wiki/Hans_Georg_Dehmelt","Hans Georg Dehmelt ","Germany",1922,2017,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"547",547,"https://en.wikipedia.org/wiki/Rudolf_Haag","Rudolf Haag ","Germany",1922,2016,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"548",548,"https://en.wikipedia.org/wiki/Arthur_Wightman","Arthur Wightman ","United States",1922,2013,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"549",549,"https://en.wikipedia.org/wiki/Oscar_Sala","Oscar Sala ","Brazil",1922,2010,"Brazil",-10.3333333,-53.2,-33.8689056,5.2693306,-73.9830625,-28.6341164
+"550",550,"https://en.wikipedia.org/wiki/Aage_Bohr","Aage Bohr ","Denmark",1922,2009,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"551",551,"https://en.wikipedia.org/wiki/Valentine_Telegdi","Valentine Telegdi ","Hungary",1922,2006,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"552",552,"https://en.wikipedia.org/wiki/Behram_Kursunoglu","Behram Kursunoglu ","Turkey",1922,2003,"Turkey",38.9597594,34.9249653,35.8076804,42.297,25.6212891,44.8176638
+"553",553,"https://en.wikipedia.org/wiki/Melvin_Lax","Melvin Lax ","United States",1922,2002,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"554",554,"https://en.wikipedia.org/wiki/Nikolay_Basov","Nikolay Basov ","Russia",1922,2001,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"555",555,"https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes","Edwin Jaynes ","United States",1922,1998,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"556",556,"https://en.wikipedia.org/wiki/Marvin_Leonard_Goldberger","Marvin Leonard Goldberger ","United States",1922,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"557",557,"https://en.wikipedia.org/wiki/Emil_Wolf","Emil Wolf ","Czechoslovakia",1922,NA,"Czechoslovakia",41.2133453,-98.6228519,41.2132953,41.2133953,-98.6229019,-98.6228019
+"558",558,"https://en.wikipedia.org/wiki/Chen_Ning_Yang","Chen Ning Yang ","China",1922,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"559",559,"https://en.wikipedia.org/wiki/H._Pierre_Noyes","H. Pierre Noyes ","United States",1923,2016,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"560",560,"https://en.wikipedia.org/wiki/Lincoln_Wolfenstein","Lincoln Wolfenstein ","United States",1923,2015,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"561",561,"https://en.wikipedia.org/wiki/Bruno_Zumino","Bruno Zumino ","Italy",1923,2014,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"562",562,"https://en.wikipedia.org/wiki/Tahir_Hussain_(physicist)","Tahir Hussain ","Pakistan",1923,2010,"Pakistan",30.3308401,71.247499,23.5393916,37.084107,60.872855,77.1203914
+"563",563,"https://en.wikipedia.org/wiki/Alladi_Ramakrishnan","Alladi Ramakrishnan ","India",1923,2008,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"564",564,"https://en.wikipedia.org/wiki/Aaldert_Wapstra","Aaldert Wapstra ","Netherlands",1923,2006,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"565",565,"https://en.wikipedia.org/wiki/Jack_Kilby","Jack Kilby ","United States",1923,2005,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"566",566,"https://en.wikipedia.org/wiki/Ranjan_Roy_Daniel","Ranjan Roy Daniel ","India",1923,2005,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"567",567,"https://en.wikipedia.org/wiki/Twersky","Victor Twersky ","United States",1923,1998,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"568",568,"https://en.wikipedia.org/wiki/Philip_Warren_Anderson","Philip Warren Anderson ","United States",1923,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"569",569,"https://en.wikipedia.org/wiki/Freeman_Dyson","Freeman Dyson ","United Kingdom",1923,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"570",570,"https://en.wikipedia.org/wiki/Val_Logsdon_Fitch","Val Logsdon Fitch ","United States",1923,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"571",571,"https://en.wikipedia.org/wiki/Willard_Boyle","Willard S. Boyle ","Canada",1924,2011,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"572",572,"https://en.wikipedia.org/wiki/Georges_Charpak","Georges Charpak ","France",1924,2010,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"573",573,"https://en.wikipedia.org/wiki/Edwin_Ernest_Salpeter","Edwin Ernest Salpeter ","Austria",1924,2008,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"574",574,"https://en.wikipedia.org/wiki/Cesar_Lattes","Cesar Lattes ","Brazil",1924,2005,"Brazil",-10.3333333,-53.2,-33.8689056,5.2693306,-73.9830625,-28.6341164
+"575",575,"https://en.wikipedia.org/wiki/Thomas_H._Stix","Thomas H. Stix ","United States",1924,2001,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"576",576,"https://en.wikipedia.org/wiki/John_Clive_Ward","John Clive Ward ","England",1924,2000,"England",52.7954791,-0.540240286617432,49.674,55.917,-6.7047494,2.0919117
+"577",577,"https://en.wikipedia.org/wiki/Allan_McLeod_Cormack","Allan McLeod Cormack ","South Africa",1924,1998,"South Africa",-28.8166236,24.991639,-47.1788335,-22.1250301,16.3335213,38.2898954
+"578",578,"https://en.wikipedia.org/wiki/James_Watt","James Watt ","Canada",1924,1998,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"579",579,"https://en.wikipedia.org/wiki/L%C3%A9on_Van_Hove","Léon Van Hove ","Belgium",1924,1990,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"580",580,"https://en.wikipedia.org/wiki/Milla_Baldo-Ceolin","Milla Baldo-Ceolin ","Italy",1924,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"581",581,"https://en.wikipedia.org/wiki/Geoffrey_Chew","Geoffrey Chew ","United States",1924,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"582",582,"https://en.wikipedia.org/wiki/Antony_Hewish","Antony Hewish ","United Kingdom",1924,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"583",583,"https://en.wikipedia.org/wiki/Yuri_Feodorovich_Orlov","Yuri Orlov ","Russia",1924,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"584",584,"https://en.wikipedia.org/wiki/Alan_Schoen","Alan Schoen ","United States",1924,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"585",585,"https://en.wikipedia.org/wiki/Roy_J._Glauber","Roy Jay Glauber ","United States",1925,2018,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"586",586,"https://en.wikipedia.org/wiki/Simon_van_der_Meer","Simon van der Meer ","Netherlands",1925,2011,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"587",587,"https://en.wikipedia.org/wiki/John_H._Hubbell","John H. Hubbell ","United States",1925,2007,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"588",588,"https://en.wikipedia.org/wiki/Richard_Dalitz","Richard Dalitz ","United Kingdom",1925,2006,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"589",589,"https://en.wikipedia.org/wiki/Yuval_Ne%27eman","Yuval Ne'eman ","Israel",1925,2006,"Israel",31.5313113,34.8667654,29.4533796,33.3356317,34.2674994,35.8950234
+"590",590,NA,"Gilbert Ronald Bainbridge ","United Kingdom",1925,2003,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"591",591,"https://en.wikipedia.org/wiki/John_Linsley","John Linsley ","United States",1925,2002,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"592",592,"https://en.wikipedia.org/wiki/Sam_Treiman","Sam Treiman ","United States",1925,1999,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"593",593,"https://en.wikipedia.org/wiki/Arthur_Maitland","Arthur Maitland ","United Kingdom",1925,1994,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"594",594,"https://en.wikipedia.org/wiki/Leo_Esaki","Leo Esaki ","Japan",1925,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"595",595,"https://en.wikipedia.org/wiki/Martin_Gutzwiller","Martin Gutzwiller ","Switzerland",1925,NA,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"596",596,"https://en.wikipedia.org/wiki/Toichiro_Kinoshita","Toichiro Kinoshita ","Japan",1925,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"597",597,"https://en.wikipedia.org/wiki/Henry_Way_Kendall","Henry Way Kendall ","United States",1926,1999,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"598",598,"https://en.wikipedia.org/wiki/Dennis_William_Sciama","Dennis William Sciama ","United Kingdom",1926,1999,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"599",599,"https://en.wikipedia.org/wiki/Abdus_Salam","Abdus Salam ","Pakistan",1926,1996,"Pakistan",30.3308401,71.247499,23.5393916,37.084107,60.872855,77.1203914
+"600",600,"https://en.wikipedia.org/wiki/As%C4%B1m_Orhan_Barut","Asim Orhan Barut ","Malatya",1926,1994,"Malatya",38.3483098,38.3178715,38.1883098,38.5083098,38.1578715,38.4778715
+"601",601,"https://en.wikipedia.org/wiki/Viktor_Dilman","Viktor Dilman ","Russia",1926,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"602",602,"https://en.wikipedia.org/wiki/Sidney_Drell","Sidney Drell ","United States",1926,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"603",603,"https://en.wikipedia.org/wiki/Donald_A._Glaser","Donald Arthur Glaser ","United States",1926,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"604",604,"https://en.wikipedia.org/wiki/Masatoshi_Koshiba","Masatoshi Koshiba ","Japan",1926,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"605",605,"https://en.wikipedia.org/wiki/Tsung-Dao_Lee","Tsung-Dao Lee ","China",1926,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"606",606,"https://en.wikipedia.org/wiki/Ben_Roy_Mottelson","Ben Roy Mottelson ","Denmark",1926,NA,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"607",607,"https://en.wikipedia.org/wiki/Ari_Brynjolfsson","Ari Brynjolfsson ","Iceland",1927,2013,"Iceland",64.9841821,-18.1059013,63.0859177,67.353,-25.0135069,-12.8046162
+"608",608,"https://en.wikipedia.org/wiki/Bernhard_Philberth","Bernhard Philberth ","Germany",1927,2010,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"609",609,"https://en.wikipedia.org/wiki/Theodore_Maiman","Theodore Maiman ","United States",1927,2007,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"610",610,"https://en.wikipedia.org/wiki/Marshall_Rosenbluth","Marshall Rosenbluth ","United States",1927,2003,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"611",611,"https://en.wikipedia.org/wiki/Rolf_Landauer","Rolf Landauer ","United States",1927,1999,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"612",612,"https://en.wikipedia.org/wiki/Gerard_K._O%27Neill","Gerard K. O'Neill ","United States",1927,1992,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"613",613,"https://en.wikipedia.org/wiki/Manfred_Eigen","Manfred Eigen ","Germany",1927,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"614",614,"https://en.wikipedia.org/wiki/Martin_Lewis_Perl","Martin Lewis Perl ","United States",1927,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"615",615,"https://en.wikipedia.org/wiki/Karl_Alexander_M%C3%BCller","Karl Alexander Müller ","Switzerland",1927,NA,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"616",616,"https://en.wikipedia.org/wiki/Martin_Lewis_Perl","Martin Lewis Perl ","United States",1927,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"617",617,"https://en.wikipedia.org/wiki/Mendel_Sachs","Mendel Sachs ","United States",1927,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"618",618,"https://en.wikipedia.org/wiki/Michael_Woolfson","Michael Woolfson ","United Kingdom",1927,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"619",619,"https://en.wikipedia.org/wiki/Robert_Zwanzig","Robert Zwanzig ","United States",1928,2014,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"620",620,"https://en.wikipedia.org/wiki/Boris_Chirikov","Boris Chirikov ","Russia",1928,2008,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"621",621,"https://en.wikipedia.org/wiki/Gurgen_Askaryan","Gurgen Askaryan ","Russia",1928,1997,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"622",622,"https://en.wikipedia.org/wiki/John_Stewart_Bell","John Stewart Bell ","United Kingdom",1928,1990,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"623",623,"https://en.wikipedia.org/wiki/Bice_Sechi-Zorn","Bice Sechi-Zorn ","Italy",1928,1984,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"624",624,"https://en.wikipedia.org/wiki/Ali_Javan","Ali Javan ","Iran",1928,2016,"Iran",32.6475314,54.5643516,24.8465103,39.7824624,44.0318908,63.3332704
+"625",625,"https://en.wikipedia.org/wiki/Vera_Rubin","Vera Rubin ","United States",1928,2016,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"626",626,"https://en.wikipedia.org/wiki/Alexei_Alexeyevich_Abrikosov","Alexei Alexeyevich Abrikosov ","Russia",1928,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"627",627,"https://en.wikipedia.org/wiki/Herbert_Kroemer","Herbert Kroemer ","Germany",1928,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"628",628,"https://en.wikipedia.org/wiki/Mambillikalathil_Govind_Kumar_Menon","M. G. K. Menon ","India",1928,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"629",629,"https://en.wikipedia.org/wiki/Dmitry_Shirkov","Dmitry Shirkov ","Russia",1928,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"630",630,"https://en.wikipedia.org/wiki/Henry_Stapp","Henry Stapp ","United States",1928,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"631",631,"https://en.wikipedia.org/wiki/Murray_Gell-Mann","Murray Gell-Mann ","United States",1929,2019,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"632",632,"https://en.wikipedia.org/wiki/Richard_E._Taylor","Richard Edward Taylor ","United States",1929,2018,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"633",633,"https://en.wikipedia.org/wiki/Rudolf_M%C3%B6ssbauer","Rudolf Mössbauer ","Germany",1929,2011,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"634",634,"https://en.wikipedia.org/wiki/Andrei_Sakharov","Andrei Dmitrievich Sakharov ","Russia",1929,1989,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"635",635,"https://en.wikipedia.org/wiki/David_Finkelstein","David Finkelstein ","United States",1929,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"636",636,"https://en.wikipedia.org/wiki/Ivar_Giaever","Ivar Giaever ","Norway",1929,NA,"Norway",64.5731537,11.5280364395482,57.7590052,71.3848787,4.0875274,31.7614911
+"637",637,"https://en.wikipedia.org/wiki/Lev_Gor%27kov","Lev Gor'kov ","United States",1929,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"638",638,"https://en.wikipedia.org/wiki/Peter_Higgs","Peter Higgs ","United Kingdom",1929,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"639",639,"https://en.wikipedia.org/wiki/Antonino_Zichichi","Antonino Zichichi ","Italy",1929,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"640",640,"https://en.wikipedia.org/wiki/Jens_Martin_Knudsen","Jens Martin Knudsen ","Denmark",1930,2005,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"641",641,"https://en.wikipedia.org/wiki/Vladimir_Gribov","Vladimir Gribov ","Russia",1930,1997,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"642",642,"https://en.wikipedia.org/wiki/Zhores_Ivanovich_Alferov","Zhores Ivanovich Alferov ","Russia",1930,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"643",643,"https://en.wikipedia.org/wiki/Leon_Cooper","Leon Cooper ","United States",1930,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"644",644,"https://en.wikipedia.org/wiki/Mildred_Dresselhaus","Mildred Dresselhaus ","United States",1930,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"645",645,"https://en.wikipedia.org/wiki/Jerome_Isaac_Friedman","Jerome Isaac Friedman ","United States",1930,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"646",646,"https://en.wikipedia.org/wiki/John_Polkinghorne","John Polkinghorne ","United Kingdom",1930,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"647",647,"https://en.wikipedia.org/wiki/George_E._Smith","George E. Smith ","United States",1930,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"648",648,"https://en.wikipedia.org/wiki/Riccardo_Giacconi","Riccardo Giacconi ","Italy",1931,2018,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"649",649,"https://en.wikipedia.org/wiki/Burton_Richter","Burton Richter ","United States",1931,2018,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"650",650,"https://en.wikipedia.org/wiki/Tullio_Regge","Tullio Regge ","Italy",1931,2014,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"651",651,"https://en.wikipedia.org/wiki/Revaz_Dogonadze","Revaz Dogonadze ","Russia",1931,1985,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"652",652,"https://en.wikipedia.org/wiki/John_Hubbard_(physicist)","John Hubbard ","United Kingdom",1931,1980,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"653",653,"https://en.wikipedia.org/wiki/Mani_Lal_Bhaumik","Mani Lal Bhaumik","United States",1931,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"654",654,"https://en.wikipedia.org/wiki/James_Cronin","James Cronin ","United States",1931,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"655",655,"https://en.wikipedia.org/wiki/Paul_G._Hewitt","Paul G. Hewitt ","United States",1931,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"656",656,"https://en.wikipedia.org/wiki/Werner_Israel","Werner Israel ","Canada",1931,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"657",657,"https://en.wikipedia.org/wiki/David_Lee_(physicist)","David Lee ","United States",1931,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"658",658,"https://en.wikipedia.org/wiki/Roger_Penrose","Roger Penrose","United Kingdom",1931,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"659",659,"https://en.wikipedia.org/wiki/John_Robert_Schrieffer","John Robert Schrieffer ","United States",1931,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"660",660,"https://en.wikipedia.org/wiki/George_Sudarshan","George Sudarshan ","India",1931,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"661",661,"https://en.wikipedia.org/wiki/Martinus_J._G._Veltman","Martinus J. G. Veltman ","Netherlands",1931,NA,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"662",662,"https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes","Pierre-Gilles de Gennes ","France",1932,2007,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"663",663,"https://en.wikipedia.org/wiki/Melvin_Schwartz","Melvin Schwartz ","United States",1932,2006,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"664",664,"https://en.wikipedia.org/wiki/Walter_Marshall,_Baron_Marshall_of_Goring","Walter Marshall ","United Kingdom",1932,1996,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"665",665,"https://en.wikipedia.org/wiki/Fran%C3%A7ois_Englert","François Englert ","Belgium",1932,NA,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"666",666,"https://en.wikipedia.org/wiki/Sheldon_Lee_Glashow","Sheldon Lee Glashow ","United States",1932,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"667",667,"https://en.wikipedia.org/wiki/Daniel_Greenberger","Daniel Greenberger ","United States",1932,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"668",668,"https://en.wikipedia.org/wiki/Hubert_Reeves","Hubert Reeves ","Canada",1932,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"669",669,"https://en.wikipedia.org/wiki/Charles_K._Kao","Charles K. Kao ","China",1933,2018,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"670",670,"https://en.wikipedia.org/wiki/Peter_Mansfield","Peter Mansfield ","United Kingdom",1933,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"671",671,"https://en.wikipedia.org/wiki/Gerald_Feinberg","Gerald Feinberg ","United States",1933,1992,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"672",672,"https://en.wikipedia.org/wiki/Bimla_Buti","Bimla Buti ","India",1933,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"673",673,"https://en.wikipedia.org/wiki/Claude_Cohen-Tannoudji","Claude Cohen-Tannoudji ","France",1933,NA,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"674",674,"https://en.wikipedia.org/wiki/Ernst_equation","Frederick J. Ernst ","United States",1933,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"675",675,"https://en.wikipedia.org/wiki/Steven_Frautschi","Steven Frautschi ","United States",1933,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"676",676,"https://en.wikipedia.org/wiki/Jeffrey_Goldstone","Jeffrey Goldstone ","United Kingdom",1933,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"677",677,"https://en.wikipedia.org/wiki/Arno_Allan_Penzias","Arno Allan Penzias","United States",1933,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"678",678,"https://en.wikipedia.org/wiki/Heinrich_Rohrer","Heinrich Rohrer ","Switzerland",1933,NA,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"679",679,"https://en.wikipedia.org/wiki/Steven_Weinberg","Steven Weinberg ","United States",1933,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"680",680,"https://en.wikipedia.org/wiki/Ludvig_Faddeev","Ludvig Faddeev ","Russia",1934,2017,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"681",681,"https://en.wikipedia.org/wiki/Carl_Sagan","Carl Sagan ","United States",1934,1996,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"682",682,"https://en.wikipedia.org/wiki/Neil_Ashby","Neil Ashby ","United States",1934,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"683",683,"https://en.wikipedia.org/wiki/James_Bjorken","James Bjorken ","United States",1934,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"684",684,"https://en.wikipedia.org/wiki/James_Glimm","James Glimm ","United States",1934,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"685",685,"https://en.wikipedia.org/wiki/John_L._Hall","John Lewis Hall ","United States",1934,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"686",686,"https://en.wikipedia.org/wiki/Archibald_Howie","Archibald Howie ","United Kingdom",1934,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"687",687,"https://en.wikipedia.org/wiki/Carlo_Rubbia","Carlo Rubbia ","Italy",1934,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"688",688,"https://en.wikipedia.org/wiki/Hiranmay_Sen_Gupta","Hiranmay Sen Gupta ","Bangladesh",1934,NA,"Bangladesh",24.4768598,90.2932299,24.4768098,24.4769098,90.2931799,90.2932799
+"689",689,"https://en.wikipedia.org/wiki/Fred_Alan_Wolf","Fred Alan Wolf ","United States",1934,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"690",690,"https://en.wikipedia.org/wiki/Nicola_Cabibbo","Nicola Cabibbo ","Italy",1935,2010,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"691",691,"https://en.wikipedia.org/wiki/Benjamin_Lee_(physicist)","Benjamin Lee ","Korea",1935,1977,"Korea",36.5581914,127.9408564,32.9104556,38.623477,124.3727348,132.1467806
+"692",692,"https://en.wikipedia.org/wiki/Joseph_H._Eberly","Joseph H. Eberly ","United States",1935,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"693",693,"https://en.wikipedia.org/wiki/David_Ruelle","David Ruelle ","Belgium",1935,NA,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"694",694,"https://en.wikipedia.org/wiki/Evgeny_Velikhov","Evgeny Velikhov ","Russia",1935,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"695",695,"https://en.wikipedia.org/wiki/Terence_James_Elkins","Terence James Elkins ","Australia",1936,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"696",696,"https://en.wikipedia.org/wiki/Peter_Freund","Peter Freund ","United States",1936,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"697",697,"https://en.wikipedia.org/wiki/B._Roy_Frieden","B. Roy Frieden ","United States",1936,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"698",698,"https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan","Abdul Qadeer Khan ","Pakistan",1936,NA,"Pakistan",30.3308401,71.247499,23.5393916,37.084107,60.872855,77.1203914
+"699",699,"https://en.wikipedia.org/wiki/Samuel_C._C._Ting","Samuel Chao Chung Ting ","United States",1936,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"700",700,"https://en.wikipedia.org/wiki/Juris_Upatnieks","Juris Upatnieks ","Latvia",1936,NA,"Latvia",56.8406494,24.7537645,55.6746505,58.0855688,20.6715407,28.2414904
+"701",701,"https://en.wikipedia.org/wiki/Kenneth_G._Wilson","Kenneth Geddes Wilson ","United States",1936,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"702",702,"https://en.wikipedia.org/wiki/Robert_Woodrow_Wilson","Robert Woodrow Wilson ","United States",1936,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"703",703,"https://en.wikipedia.org/wiki/David_Olive","David Olive ","United Kingdom",1937,2012,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"704",704,"https://en.wikipedia.org/wiki/Hans_Henrik_Andersen","Hans Henrik Andersen ","Denmark",1937,NA,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"705",705,"https://en.wikipedia.org/wiki/Carl_Richard_Hagen","Carl Richard Hagen ","United States",1937,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"706",706,"https://en.wikipedia.org/wiki/Charles_H._Henry","Charles H. Henry ","United States",1937,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"707",707,"https://en.wikipedia.org/wiki/Jogesh_Pati","Jogesh Pati ","United States",1937,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"708",708,"https://en.wikipedia.org/wiki/Robert_Coleman_Richardson","Robert Coleman Richardson ","United States",1937,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"709",709,"https://en.wikipedia.org/wiki/Colin_Webb","Colin Webb ","United Kingdom",1937,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"710",710,"https://en.wikipedia.org/wiki/George_Zweig","George Zweig ","United States",1937,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"711",711,"https://en.wikipedia.org/wiki/Alexander_Animalu","Alexander Animalu","Nigeria",1938,NA,"Nigeria",9.6000359,7.9999721,4.0690959,13.885645,2.676932,14.678014
+"712",712,"https://en.wikipedia.org/wiki/Aiyalam_Parameswaran_Balachandran","Aiyalam Parameswaran Balachandran ","India",1938,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"713",713,"https://en.wikipedia.org/wiki/Albert_Fert","Albert Fert ","France",1938,NA,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"714",714,"https://en.wikipedia.org/wiki/Anthony_James_Leggett","Anthony James Leggett ","United Kingdom",1938,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"715",715,"https://en.wikipedia.org/wiki/Jayant_Narlikar","Jayant Narlikar ","India",1938,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"716",716,"https://en.wikipedia.org/wiki/Martin_Schadt","Martin Schadt ","Switzerland",1938,NA,"Switzerland",46.7985624,8.2319736,45.817995,47.8084648,5.9559113,10.4922941
+"717",717,"https://en.wikipedia.org/wiki/Alan_Andrew_Watson","Alan Andrew Watson ","United Kingdom",1938,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"718",718,"https://en.wikipedia.org/wiki/Howard_Brandt","Howard Brandt ","United States",1939,2014,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"719",719,"https://en.wikipedia.org/wiki/Heinz_Pagels","Heinz Pagels ","United States",1939,1988,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"720",720,"https://en.wikipedia.org/wiki/Roman_U._Sexl","Roman U. Sexl ","Austria",1939,1986,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"721",721,"https://en.wikipedia.org/wiki/Stephen_L._Adler","Stephen L. Adler ","United States",1939,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"722",722,"https://en.wikipedia.org/wiki/Fritjof_Capra","Fritjof Capra ","Austria",1939,NA,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"723",723,"https://en.wikipedia.org/wiki/Mary_K._Gaillard","Mary K. Gaillard ","France",1939,NA,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"724",724,"https://en.wikipedia.org/wiki/Peter_Gr%C3%BCnberg","Peter Grünberg ","Germany",1939,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"725",725,"https://en.wikipedia.org/wiki/Sumio_Iijima","Sumio Iijima ","Japan",1939,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"726",726,"https://en.wikipedia.org/wiki/Jamal_Nazrul_Islam","Jamal Nazrul Islam ","Bangladesh",1939,NA,"Bangladesh",24.4768598,90.2932299,24.4768098,24.4769098,90.2931799,90.2932799
+"727",727,"https://en.wikipedia.org/wiki/Roman_Jackiw","Roman Jackiw ","Poland",1939,NA,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"728",728,"https://en.wikipedia.org/wiki/Robert_K._Logan","Robert K. Logan ","United States",1939,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"729",729,"https://en.wikipedia.org/wiki/Daniel_C._Tsui","Daniel Chee Tsui ","China",1939,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"730",730,"https://en.wikipedia.org/wiki/Stanislav_Mikheyev","Stanislav Mikheyev ","Russia",1940,2011,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"731",731,"https://en.wikipedia.org/wiki/Francisco_Jose_Yndurain","Francisco Jose Yndurain ","Spain",1940,2008,"Spain",39.3262345,-4.8380649,27.4335426,43.9933088,-18.3936845,4.5918885
+"732",732,"https://en.wikipedia.org/wiki/Juansher_Chkareuli","Juansher Chkareuli ","Georgia",1940,NA,"Georgia",32.3293809,-83.1137366,30.355757,35.0013614,-85.6052418,-80.751429
+"733",733,"https://en.wikipedia.org/wiki/John_Iliopoulos","John Iliopoulos ","Greece",1940,NA,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"734",734,"https://en.wikipedia.org/wiki/Brian_David_Josephson","Brian David Josephson ","United Kingdom",1940,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"735",735,"https://en.wikipedia.org/wiki/Toshihide_Maskawa","Toshihide Maskawa ","Japan",1940,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"736",736,"https://en.wikipedia.org/wiki/Ward_Plummer","Ward Plummer ","United States",1940,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"737",737,"https://en.wikipedia.org/wiki/Leonard_Susskind","Leonard Susskind ","United States",1940,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"738",738,"https://en.wikipedia.org/wiki/Kip_Stephen_Thorne","Kip Stephen Thorne ","United States",1940,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"739",739,"https://en.wikipedia.org/wiki/Paul_John_Ellis","Paul John Ellis","United States",1941,2005,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"740",740,"https://en.wikipedia.org/wiki/William_A._Bardeen","William A. Bardeen ","United States",1941,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"741",741,"https://en.wikipedia.org/wiki/David_Gross","David Gross ","United States",1941,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"742",742,"https://en.wikipedia.org/wiki/Theodor_W._H%C3%A4nsch","Theodor Wolfgang Hänsch ","Germany",1941,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"743",743,"https://en.wikipedia.org/wiki/Hagen_Kleinert","Hagen Kleinert ","Germany",1941,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"744",744,"https://en.wikipedia.org/wiki/Luciano_Maiani","Luciano Maiani ","Italy",1941,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"745",745,"https://en.wikipedia.org/wiki/Holger_Bech_Nielsen","Holger Bech Nielsen ","Denmark",1941,NA,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"746",746,"https://en.wikipedia.org/wiki/John_Henry_Schwarz","John Henry Schwarz ","United States",1941,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"747",747,"https://en.wikipedia.org/wiki/Bent_S%C3%B8rensen_(physicist)","Bent Sørensen ","Denmark",1941,NA,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"748",748,"https://en.wikipedia.org/wiki/Joseph_Hooton_Taylor,_Jr.","Joseph Hooton Taylor, Jr. ","United States",1941,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"749",749,"https://en.wikipedia.org/wiki/Stephen_Hawking","Stephen Hawking ","United Kingdom",1942,2018,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"750",750,"https://en.wikipedia.org/wiki/Akira_Tonomura","Akira Tonomura ","Japan",1942,2012,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"751",751,"https://en.wikipedia.org/wiki/Yoji_Totsuka","Yoji Totsuka ","Japan",1942,2008,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"752",752,"https://en.wikipedia.org/wiki/Laura_Eisenstein","Laura Eisenstein","United States",1942,1985,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"753",753,"https://en.wikipedia.org/wiki/Curtis_Callan","Curtis Callan ","United States",1942,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"754",754,"https://en.wikipedia.org/wiki/Brandon_Carter","Brandon Carter ","Australia",1942,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"755",755,"https://en.wikipedia.org/wiki/David_J._Griffiths","David J. Griffiths ","United States",1942,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"756",756,"https://en.wikipedia.org/wiki/Martin_Rees,_Baron_Rees_of_Ludlow","Martin John Rees ","United Kingdom",1942,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"757",757,"https://en.wikipedia.org/wiki/Gabriele_Veneziano","Gabriele Veneziano ","Italy",1942,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"758",758,"https://en.wikipedia.org/wiki/Denis_Weaire","Denis Weaire ","Ireland",1942,NA,"Ireland",52.865196,-7.9794599,51.222,55.636,-11.0133788,-5.6582363
+"759",759,"https://en.wikipedia.org/wiki/Lorella_Jones","Lorella Jones ","United States",1943,1995,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"760",760,"https://en.wikipedia.org/wiki/V._Balakrishnan_(physicist)","V Balakrishnan ","India",1943,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"761",761,"https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell","Jocelyn Bell Burnell ","Northern Ireland",1943,NA,"Northern Ireland",54.6294982,-6.7654416,52.0694982,57.1894982,-9.3254416,-4.2054416
+"762",762,"https://en.wikipedia.org/wiki/Giovanni_Ciccotti","Giovanni Ciccotti ","Italy",1943,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"763",763,"https://en.wikipedia.org/wiki/Samuel_T._Durrance","Samuel T. Durrance ","United States",1943,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"764",764,"https://en.wikipedia.org/wiki/Klaus_von_Klitzing","Klaus von Klitzing ","Germany",1943,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"765",765,"https://en.wikipedia.org/wiki/Arthur_B._McDonald","Arthur B. McDonald ","Canada",1943,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"766",766,"https://en.wikipedia.org/wiki/Helen_Quinn","Helen Quinn ","Australia",1943,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"767",767,"https://en.wikipedia.org/wiki/Rashid_Sunyaev","Rashid Sunyaev ","Russia",1943,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"768",768,"https://en.wikipedia.org/wiki/Mitchell_Feigenbaum","Mitchell Feigenbaum ","United States",1944,2019,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"769",769,"https://en.wikipedia.org/wiki/Riccardo_Barbieri","Riccardo Barbieri ","Italy",1944,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"770",770,"https://en.wikipedia.org/wiki/Serge_Haroche","Serge Haroche ","France",1944,NA,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"771",771,"https://en.wikipedia.org/wiki/Makoto_Kobayashi_(physicist)","Makoto Kobayashi ","Japan",1944,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"772",772,"https://en.wikipedia.org/w/index.php?title=Rabindra_N._Mohapatra&action=edit&redlink=1","Rabindra N. Mohapatra","United States",1944,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"773",773,"https://en.wikipedia.org/wiki/Richard_A._Muller","Richard A. Muller ","United States",1944,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"774",774,"https://en.wikipedia.org/wiki/Anthony_Ichiro_Sanda","Anthony Ichiro Sanda ","Japan",1944,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"775",775,"https://en.wikipedia.org/wiki/David_J._Wineland","David J. Wineland ","United States",1944,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"776",776,"https://en.wikipedia.org/wiki/Peter_Goddard_(physicist)","Peter Goddard ","United Kingdom",1945,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"777",777,"https://en.wikipedia.org/wiki/Menas_Kafatos","Menas Kafatos ","Greece",1945,NA,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"778",778,"https://en.wikipedia.org/wiki/Douglas_D._Osheroff","Douglas Dean Osheroff ","United States",1945,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"779",779,"https://en.wikipedia.org/wiki/Alexander_M._Polyakov","Alexander M. Polyakov ","Russia",1945,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"780",780,"https://en.wikipedia.org/wiki/George_Smoot","George Smoot ","United States",1945,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"781",781,"https://en.wikipedia.org/wiki/Rafael_Sorkin","Rafael Sorkin ","United States",1945,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"782",782,"https://en.wikipedia.org/wiki/Anthony_Zee","Anthony Zee ","United States",1945,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"783",783,"https://en.wikipedia.org/wiki/Anton_Zeilinger","Anton Zeilinger ","Austria",1945,NA,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"784",784,"https://en.wikipedia.org/wiki/Jo%C3%ABl_Scherk","Joël Scherk ","France",1946,1979,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"785",785,"https://en.wikipedia.org/wiki/Moses_H._W._Chan","Moses H. W. Chan ","Hong Kong",1946,NA,"Hong Kong",22.2793278,114.1628131,22.1193278,22.4393278,114.0028131,114.3228131
+"786",786,"https://en.wikipedia.org/wiki/Predrag_Cvitanovi%C4%87","Predrag Cvitanovic ","Croatia",1946,NA,"Croatia",45.5643442,17.0118954,42.1765993,46.555029,13.2104814,19.4470842
+"787",787,"https://en.wikipedia.org/wiki/Paul_Davies","Paul Davies ","Australia",1946,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"788",788,"https://en.wikipedia.org/wiki/John_Ellis_(physicist)","John Ellis ","United Kingdom",1946,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"789",789,"https://en.wikipedia.org/wiki/Michael_Green_(physicist)","Michael Green","United Kingdom",1946,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"790",790,"https://en.wikipedia.org/wiki/John_Gribbin","John Gribbin ","United Kingdom",1946,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"791",791,"https://en.wikipedia.org/wiki/Gerardus_%27t_Hooft","Gerardus 't Hooft ","Netherlands",1946,NA,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"792",792,"https://en.wikipedia.org/wiki/Shirley_Ann_Jackson","Shirley Ann Jackson ","United States",1946,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"793",793,"https://en.wikipedia.org/wiki/John_C._Mather","John Cromwell Mather ","United States",1946,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"794",794,"https://en.wikipedia.org/wiki/Kees_A._Schouhamer_Immink","Kees A. Schouhamer Immink ","Netherlands",1946,NA,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"795",795,"https://en.wikipedia.org/wiki/George_Sterman","George Sterman ","United States",1946,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"796",796,"https://en.wikipedia.org/wiki/F%C3%A9lix_Yndur%C3%A1in","Félix Ynduráin ","Spain",1946,NA,"Spain",39.3262345,-4.8380649,27.4335426,43.9933088,-18.3936845,4.5918885
+"797",797,"https://en.wikipedia.org/wiki/Nathan_Isgur","Nathan Isgur ","United States",1947,2001,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"798",798,"https://en.wikipedia.org/wiki/Alain_Aspect","Alain Aspect","France",1947,NA,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"799",799,"https://en.wikipedia.org/wiki/Gerd_Binnig","Gerd Binnig ","Germany",1947,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"800",800,"https://en.wikipedia.org/wiki/Howard_Georgi","Howard Georgi ","United States",1947,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"801",801,"https://en.wikipedia.org/wiki/Alan_Guth","Alan Guth ","United States",1947,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"802",802,"https://en.wikipedia.org/wiki/Michio_Kaku","Michio Kaku ","United States",1947,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"803",803,"https://en.wikipedia.org/wiki/Brian_May","Brian May ","United Kingdom",1947,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"804",804,"https://en.wikipedia.org/wiki/Adrian_Melott","Adrian Melott ","United States",1947,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"805",805,"https://en.wikipedia.org/wiki/Frank_J._Tipler","Frank J. Tipler ","United States",1947,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"806",806,"https://en.wikipedia.org/wiki/Paul_Werbos","Paul Werbos ","United States",1947,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"807",807,"https://en.wikipedia.org/wiki/Kenneth_Young_(physicist)","Kenneth Young ","United States",1947,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"808",808,"https://en.wikipedia.org/wiki/Yasha_Rosenfeld","Yasha Rosenfeld ","Israel",1948,2002,"Israel",31.5313113,34.8667654,29.4533796,33.3356317,34.2674994,35.8950234
+"809",809,"https://en.wikipedia.org/wiki/Steven_Chu","Steven Chu ","United States",1948,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"810",810,"https://en.wikipedia.org/wiki/Predhiman_Krishan_Kaw","Predhiman Krishan Kaw ","India",1948,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"811",811,"https://en.wikipedia.org/wiki/William_Daniel_Phillips","William Daniel Phillips ","United States",1948,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"812",812,"https://en.wikipedia.org/wiki/Isidor_Sauers","Isidor Sauers ","Austria",1948,NA,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"813",813,"https://en.wikipedia.org/wiki/Tom_Banks_(physicist)","Tom Banks ","United States",1949,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"814",814,"https://en.wikipedia.org/wiki/Richard_Keith_Ellis","Richard Keith Ellis ","United Kingdom",1949,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"815",815,"https://en.wikipedia.org/wiki/Willy_Fischler","Willy Fischler ","Belgium",1949,NA,"Belgium",50.6402809,4.6667145,49.4969821,51.550781,2.3889137,6.408097
+"816",816,"https://en.wikipedia.org/wiki/Hugh_David_Politzer","Hugh David Politzer ","United States",1949,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"817",817,"https://en.wikipedia.org/wiki/Mikhail_Shifman","Mikhail Shifman ","Russia",1949,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"818",818,"https://en.wikipedia.org/wiki/Horst_Ludwig_St%C3%B6rmer","Horst Ludwig Störmer ","Germany",1949,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"819",819,"https://en.wikipedia.org/wiki/Ronald_E._McNair","Ronald E. McNair ","United States",1950,1986,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"820",820,"https://en.wikipedia.org/wiki/Johannes_Georg_Bednorz","Johannes Georg Bednorz ","Germany",1950,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"821",821,"https://en.wikipedia.org/wiki/James_Binney","James Binney ","England",1950,NA,"England",52.7954791,-0.540240286617432,49.674,55.917,-6.7047494,2.0919117
+"822",822,"https://en.wikipedia.org/wiki/Sylvester_James_Gates","Sylvester James Gates ","United States",1950,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"823",823,"https://en.wikipedia.org/wiki/Ravi_Gomatam","Ravi Gomatam ","India",1950,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"824",824,"https://en.wikipedia.org/wiki/Pervez_Hoodbhoy","Pervez Hoodbhoy ","Pakistan",1950,NA,"Pakistan",30.3308401,71.247499,23.5393916,37.084107,60.872855,77.1203914
+"825",825,"https://en.wikipedia.org/wiki/Russell_Alan_Hulse","Russell Alan Hulse ","United States",1950,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"826",826,"https://en.wikipedia.org/wiki/Robert_B._Laughlin","Robert Betts Laughlin ","United States",1950,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"827",827,"https://en.wikipedia.org/wiki/Jagadeesh_Moodera","Jagadeesh Moodera ","India",1950,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"828",828,"https://en.wikipedia.org/wiki/Oleg_Sushkov","Oleg Sushkov ","Russia",1950,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"829",829,"https://en.wikipedia.org/wiki/Basilis_C._Xanthopoulos","Basilis C. Xanthopoulos ","Greece",1951,1990,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"830",830,"https://en.wikipedia.org/wiki/Swapan_Chattopadhyay","Swapan Chattopadhyay ","India",1951,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"831",831,"https://en.wikipedia.org/wiki/Denis_Evans","Denis Evans ","Australia",1951,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"832",832,"https://en.wikipedia.org/wiki/Harald_Fuchs","Harald Fuchs ","Germany",1951,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"833",833,"https://en.wikipedia.org/wiki/Daya_Shankar_Kulshreshtha","Daya Shankar Kulshreshtha","India",1951,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"834",834,"https://en.wikipedia.org/wiki/Sidney_Redner","Sidney Redner ","Canada",1951,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"835",835,"https://en.wikipedia.org/wiki/Alexei_Yuryevich_Smirnov","Alexei Yuryevich Smirnov ","Russia",1951,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"836",836,"https://en.wikipedia.org/wiki/Carl_Wieman","Carl Wieman ","United States",1951,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"837",837,"https://en.wikipedia.org/wiki/Frank_Wilczek","Frank Wilczek ","United States",1951,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"838",838,"https://en.wikipedia.org/wiki/Edward_Witten","Edward Witten ","United States",1951,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"839",839,"https://en.wikipedia.org/wiki/Wojciech_H._Zurek","Wojciech H. Zurek ","Poland",1951,NA,"Poland",52.215933,19.134422,49.0020468,55.036025,14.0696389,24.145783
+"840",840,"https://en.wikipedia.org/wiki/Savas_Dimopoulos","Savas Dimopoulos ","United States",1952,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"841",841,"https://en.wikipedia.org/wiki/John_Hartnett_(physicist)","John G. Hartnett ","Australia",1952,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"842",842,"https://en.wikipedia.org/wiki/Paul_J._Steinhardt","Paul J. Steinhardt ","United States",1952,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"843",843,"https://en.wikipedia.org/wiki/Christof_Wetterich","Christof Wetterich","Germany",1952,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"844",844,"https://en.wikipedia.org/wiki/Peter_Zoller","Peter Zoller ","Austria",1952,NA,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"845",845,"https://en.wikipedia.org/wiki/Stephen_Paul_(physicist)","Stephen Paul ","United States",1953,2012,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"846",846,"https://en.wikipedia.org/wiki/Ashok_Das","Ashok Das ","India",1953,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"847",847,"https://en.wikipedia.org/wiki/David_Deutsch","David Deutsch ","Israel",1953,NA,"Israel",31.5313113,34.8667654,29.4533796,33.3356317,34.2674994,35.8950234
+"848",848,"https://en.wikipedia.org/wiki/Mark_B._Wise","Mark B. Wise ","Canada",1953,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"849",849,"https://en.wikipedia.org/wiki/Joseph_Polchinski","Joseph Polchinski ","United States",1954,2018,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"850",850,"https://en.wikipedia.org/wiki/Ayyub_Guliyev","Ayyub Guliyev ","Azerbaijan",1954,NA,"Azerbaijan",40.3936294,47.7872508,38.3929551,41.9502947,44.7633701,51.0090302
+"851",851,"https://en.wikipedia.org/wiki/Anthony_M._Johnson","Anthony M. Johnson ","United States",1954,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"852",852,"https://en.wikipedia.org/wiki/Lawrence_M._Krauss","Lawrence M. Krauss ","United States",1954,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"853",853,"https://en.wikipedia.org/wiki/Hideo_Ohno","Hideo Ohno ","Japan",1954,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"854",854,"https://en.wikipedia.org/wiki/Serge_Rudaz","Serge Rudaz ","Canada",1954,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"855",855,"https://en.wikipedia.org/wiki/Yoshinori_Tokura","Yoshinori Tokura ","Japan",1954,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"856",856,"https://en.wikipedia.org/wiki/Wang_Huanyu","Huanyu Wang ","China",1954,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"857",857,"https://en.wikipedia.org/wiki/Barton_Zwiebach","Barton Zwiebach ","United States",1954,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"858",858,"https://en.wikipedia.org/wiki/Jonathan_Dowling","Jonathan Dowling ","United States",1955,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"859",859,"https://en.wikipedia.org/wiki/Andrea_M._Ghez","Andrea M. Ghez ","United States",1955,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"860",860,"https://en.wikipedia.org/wiki/Mark_G._Raizen","Mark G. Raizen ","United States",1955,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"861",861,"https://en.wikipedia.org/wiki/Lee_Smolin","Lee Smolin ","United States",1955,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"862",862,"https://en.wikipedia.org/wiki/Andrew_Strominger","Andrew Strominger ","United States",1955,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"863",863,"https://en.wikipedia.org/wiki/David_Lindley_(physicist)","David Lindley ","United States",1956,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"864",864,"https://en.wikipedia.org/wiki/Fulvio_Melia","Fulvio Melia ","United States",1956,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"865",865,"https://en.wikipedia.org/wiki/Carlo_Rovelli","Carlo Rovelli ","Italy",1956,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"866",866,"https://en.wikipedia.org/wiki/Nathan_Seiberg","Nathan Seiberg ","United States",1956,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"867",867,"https://en.wikipedia.org/wiki/Ashoke_Sen","Ashoke Sen ","India",1956,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"868",868,"https://en.wikipedia.org/wiki/Wolfgang_Ketterle","Wolfgang Ketterle ","Germany",1957,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"869",869,"https://en.wikipedia.org/wiki/Joseph_Lykken","Joseph Lykken ","United States",1957,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"870",870,"https://en.wikipedia.org/wiki/Thanu_Padmanabhan","Thanu Padmanabhan ","India",1957,NA,"India",22.3511148,78.6677428,6.2325274,35.6745457,68.1113787,97.395561
+"871",871,"https://en.wikipedia.org/wiki/Wang_Enge","Enge Wang ","China",1957,NA,"China",35.000074,104.999927,8.8383436,53.5608154,73.4997347,134.7754563
+"872",872,"https://en.wikipedia.org/wiki/Jan_Zaanen","Jan Zaanen ","Netherlands",1957,NA,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"873",873,"https://en.wikipedia.org/wiki/Jean_Dalibard","Jean Dalibard ","France",1958,NA,"France",46.603354,1.8883335,-50.2187169,51.268318,-178.3873749,172.3057152
+"874",874,"https://en.wikipedia.org/wiki/Andre_Geim","Andre Geim ","Russia",1958,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"875",875,"https://en.wikipedia.org/wiki/Antal_J%C3%A1kli","Antal István Jákli ","Hungary",1958,NA,"Hungary",47.1817585,19.5060937,45.737128,48.585257,16.1138866,22.8977094
+"876",876,"https://en.wikipedia.org/wiki/Ann_Nelson","Ann Nelson ","United States",1958,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"877",877,"https://en.wikipedia.org/wiki/Neil_Turok","Neil Turok ","South Africa",1958,NA,"South Africa",-28.8166236,24.991639,-47.1788335,-22.1250301,16.3335213,38.2898954
+"878",878,"https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson","Neil deGrasse Tyson ","United States",1958,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"879",879,"https://en.wikipedia.org/wiki/Claudia_Draxl","Claudia Draxl ","Germany",1959,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"880",880,"https://en.wikipedia.org/wiki/Lene_Vestergaard_Hau","Lene Vestergaard Hau Vejle","Denmark",1959,NA,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"881",881,"https://en.wikipedia.org/wiki/Takaaki_Kajita","Takaaki Kajita ","Japan",1959,NA,"Japan",36.5748441,139.2394179,20.2145811,45.7112046,122.7141754,154.205541
+"882",882,"https://en.wikipedia.org/wiki/Ram%C3%B3n_E._L%C3%B3pez","Ramón E. López ","United States",1959,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"883",883,"https://en.wikipedia.org/wiki/Saul_Perlmutter","Saul Perlmutter ","United States",1959,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"884",884,"https://en.wikipedia.org/wiki/Donna_Strickland","Donna Strickland ","Canada",1959,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"885",885,"https://en.wikipedia.org/wiki/Stephen_Wolfram","Stephen Wolfram ","United Kingdom",1959,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"886",886,"https://en.wikipedia.org/wiki/Derek_Abbott","Derek Abbott ","Australia",1960,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"887",887,"https://en.wikipedia.org/wiki/Robbert_Dijkgraaf","Robbert Dijkgraaf ","Netherlands",1960,NA,"Netherlands",52.5001698,5.7480821,11.777,53.744025,-70.2695876,7.2274985
+"888",888,"https://en.wikipedia.org/wiki/Seth_Lloyd","Seth Lloyd ","United States",1960,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"889",889,"https://en.wikipedia.org/wiki/Joseph_Romm","Joseph Romm ","United States",1960,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"890",890,"https://en.wikipedia.org/wiki/Eric_Allin_Cornell","Eric Allin Cornell ","United States",1961,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"891",891,"https://en.wikipedia.org/wiki/Ulrike_Diebold","Ulrike Diebold ","Austria",1961,NA,"Austria",47.2000338,13.199959,46.3722761,49.0205305,9.5307487,17.160776
+"892",892,"https://en.wikipedia.org/wiki/Michael_R._Douglas","Michael R. Douglas ","United States",1961,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"893",893,"https://en.wikipedia.org/wiki/Matthew_Koss","Matthew Koss ","United States",1961,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"894",894,"https://en.wikipedia.org/wiki/Marcela_Carena","Marcela Carena ","Argentina",1962,NA,"Argentina",-34.9964963,-64.9672817,-55.1850761,-21.781168,-73.5605371,-53.6374515
+"895",895,"https://en.wikipedia.org/wiki/Ezra_Getzler","Ezra Getzler ","Australia",1962,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"896",896,"https://en.wikipedia.org/wiki/Ata%C3%A7_%C4%B0mamo%C4%9Flu","Ataç Imamoglu ","Turkey",1962,NA,"Turkey",38.9597594,34.9249653,35.8076804,42.297,25.6212891,44.8176638
+"897",897,"https://en.wikipedia.org/wiki/Jim_Al-Khalili","Jim Al-Khalili ","United Kingdom",1962,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"898",898,"https://en.wikipedia.org/wiki/Lisa_Randall","Lisa Randall ","United States",1962,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"899",899,"https://en.wikipedia.org/wiki/David_Carroll_(physicist)","David Carroll ","United States",1963,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"900",900,"https://en.wikipedia.org/wiki/Brian_Greene","Brian Greene ","United States",1963,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"901",901,"https://en.wikipedia.org/wiki/Miguel_Alcubierre","Miguel Alcubierre ","Mexico",1964,NA,"Mexico",19.4326009,-99.1333416,19.2726009,19.5926009,-99.2933416,-98.9733416
+"902",902,"https://en.wikipedia.org/wiki/Riccardo_Rattazzi","Riccardo Rattazzi ","Italy",1964,NA,"Italy",42.6384261,12.674297,35.2889616,47.0921462,6.6272658,18.7844746
+"903",903,"https://en.wikipedia.org/wiki/Anja_Cetti_Andersen","Anja Cetti Andersen ","Denmark",1965,NA,"Denmark",55.670249,10.3333283,54.4516667,57.9524297,7.7153255,15.5530641
+"904",904,"https://en.wikipedia.org/wiki/Sixto_Gonz%C3%A1lez","Sixto González ","Puerto Rico",1965,NA,"Puerto Rico",18.22141715,-66.4132818505648,17.9268695,18.5159789,-67.271492,-65.5897525
+"905",905,"https://en.wikipedia.org/wiki/Ashutosh_Kotwal","Ashutosh Kotwal ","United States",1965,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"906",906,"https://en.wikipedia.org/wiki/Eric_Poisson","Eric Poisson ","Canada",1965,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"907",907,"https://en.wikipedia.org/wiki/Andrew_D._Huxley","Andrew D. Huxley ","United Kingdom",1966,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"908",908,"https://en.wikipedia.org/wiki/Alejandro_Corichi","Alejandro Corichi ","Mexico",1967,NA,"Mexico",19.4326009,-99.1333416,19.2726009,19.5926009,-99.2933416,-98.9733416
+"909",909,"https://en.wikipedia.org/wiki/Alexander_R._Hamilton","Alexander Hamilton ","United Kingdom",1967,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"910",910,"https://en.wikipedia.org/wiki/Brian_Schmidt","Brian Schmidt ","Australia",1967,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"911",911,"https://en.wikipedia.org/wiki/Max_Tegmark","Max Tegmark ","Sweden",1967,NA,"Sweden",59.6749712,14.5208584,55.1331192,69.0599699,10.5930952,24.1776819
+"912",912,"https://en.wikipedia.org/wiki/Brian_Cox_(physicist)","Brian Cox ","United Kingdom",1968,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"913",913,"https://en.wikipedia.org/wiki/Jeff_Forshaw","Jeff Forshaw ","United Kingdom",1968,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"914",914,"https://en.wikipedia.org/wiki/Deborah_S._Jin","Deborah S. Jin ","United States",1968,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"915",915,"https://en.wikipedia.org/wiki/Antony_Garrett_Lisi","Antony Garrett Lisi ","United States",1968,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"916",916,"https://en.wikipedia.org/wiki/Juan_Mart%C3%ADn_Maldacena","Juan Martín Maldacena ","Argentina",1968,NA,"Argentina",-34.9964963,-64.9672817,-55.1850761,-21.781168,-73.5605371,-53.6374515
+"917",917,"https://en.wikipedia.org/wiki/Adam_Riess","Adam Riess ","United States",1969,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"918",918,"https://en.wikipedia.org/wiki/Nicola_Spaldin","Nicola Spaldin ","United Kingdom",1969,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"919",919,"https://en.wikipedia.org/wiki/Alain_Hach%C3%A9","Alain Haché ","Canada",1970,NA,"Canada",61.0666922,-107.9917071,41.6765556,83.3362128,-141.00275,-52.3231981
+"920",920,"https://en.wikipedia.org/wiki/Gregory_Jaczko","Gregory Jaczko ","United States",1970,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"921",921,"https://en.wikipedia.org/wiki/Eva_Silverstein","Eva Silverstein ","United States",1970,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"922",922,"https://en.wikipedia.org/wiki/Maria_Spiropulu","Maria Spiropulu ","Greece",1970,NA,"Greece",38.9953683,21.9877132,34.7006096,41.7488889,19.2477876,29.7296986
+"923",923,"https://en.wikipedia.org/wiki/Amanda_Barnard","Amanda Barnard ","Australia",1971,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"924",924,"https://en.wikipedia.org/wiki/Vlatko_Vedral","Vlatko Vedral ","United Kingdom",1971,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"925",925,"https://en.wikipedia.org/wiki/Nima_Arkani-Hamed","Nima Arkani-Hamed ","United States",1972,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"926",926,"https://en.wikipedia.org/wiki/Sanja_Damjanovi%C4%87","Sanja Damjanovic","Montenegro",1972,NA,"Montenegro",42.9868853,19.5180992,41.7495999,43.5585061,18.4195781,20.3561641
+"927",927,"https://en.wikipedia.org/wiki/Martin_Bojowald","Martin Bojowald ","Germany",1973,NA,"Germany",51.0834196,10.4234469,47.2701114,55.099161,5.8663153,15.0418087
+"928",928,"https://en.wikipedia.org/wiki/Maxim_Chernodub","Maxim Chernodub ","Russia",1973,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"929",929,"https://en.wikipedia.org/wiki/Tanya_Monro","Tanya Monro ","Australia",1973,NA,"Australia",-24.7761086,134.755,-55.3228175,-9.0880125,72.2461932,168.2261259
+"930",930,"https://en.wikipedia.org/wiki/Konstantin_Novoselov","Konstantin Novoselov ","Russia",1974,NA,"Russia",64.6863136,97.7453061,41.1850968,82.0586232,-180,180
+"931",931,"https://en.wikipedia.org/wiki/Naomi_Ginsberg","Naomi Ginsberg ","United States",1979,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"932",932,"https://en.wikipedia.org/wiki/Tom_Baehr-Jones","Tom Baehr-Jones ","United States",1980,NA,"United States",39.7837304,-100.4458825,-14.7608358,71.6048217,-180,180
+"933",933,"https://en.wikipedia.org/wiki/Chris_Lintott","Chris Lintott ","United Kingdom",1980,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
+"934",934,"https://en.wikipedia.org/wiki/Matthew_Sanders","Matthew Sanders ","United Kingdom",1996,NA,"United Kingdom",54.7023545,-3.2765753,47.2023545,62.2023545,-10.7765753,4.2234247
