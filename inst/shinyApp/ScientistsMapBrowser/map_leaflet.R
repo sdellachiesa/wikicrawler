@@ -1,4 +1,19 @@
+# ---- Load Libraries
+library(leaflet)
+library(leaflet.providers)
+library(leaflet.extras)
+library(readxl)
+library(ggmap)
+library(ggplot2)
+library(tmap)
+library(tmaptools)
+
+#---- Load data
+GeoScientists_df<-read.csv("C:/Users/SDellaChiesa/OneDrive - Scientific Network South Tyrol/00_R/09_wikicrawler/data/GeoScientists.csv")
+
 # ---- Plot points
+
+
 
 leaflet(data = GeoScientists_df) %>% addTiles() %>%
   addMarkers(~lon, ~lat, 
